@@ -1,0 +1,501 @@
+date,district,incident_type,response_time_min,severity,weather_condition,time_of_day,officers_dispatched,resolution_status
+2025-01-01,District-2,Medical,12.1,Critical,Fog,Night,1,In Progress
+2025-01-02,District-5,Security,0.9,Medium,Snow,Night,3,In Progress
+2025-01-03,District-3,Fire,7.9,Critical,Storm,Afternoon,4,Resolved
+2025-01-04,District-2,Fire,27.4,Low,Snow,Night,1,Resolved
+2025-01-05,District-2,Security,10.6,Medium,Clear,Morning,1,Resolved
+2025-01-06,District-5,Medical,12.2,High,Snow,Morning,3,Resolved
+2025-01-07,District-1,Medical,6.3,Low,Snow,Night,4,In Progress
+2025-01-08,District-5,Medical,1.1,Low,Rain,Morning,9,Resolved
+2025-01-09,District-3,Natural Disaster,7.2,Medium,Rain,Evening,3,Resolved
+2025-01-10,District-3,Medical,2.6,Critical,Fog,Afternoon,2,Resolved
+2025-01-11,District-2,Security,3.6,Medium,Rain,Evening,6,Resolved
+2025-01-12,District-3,Medical,0.6,Critical,Rain,Evening,2,Resolved
+2025-01-13,District-2,Medical,0.0,Medium,Rain,Afternoon,3,Resolved
+2025-01-14,District-2,Natural Disaster,4.8,High,Rain,Afternoon,6,In Progress
+2025-01-15,District-1,Security,1.1,Low,Storm,Morning,1,Closed
+2025-01-16,District-5,Natural Disaster,1.6,Medium,Storm,Morning,3,Resolved
+2025-01-17,District-3,Medical,6.4,Medium,Snow,Afternoon,6,Escalated
+2025-01-18,District-3,Medical,1.8,Medium,Rain,Evening,1,Resolved
+2025-01-19,District-3,Fire,0.7,Low,Rain,Morning,2,Resolved
+2025-01-20,District-1,Medical,13.9,Low,Storm,Afternoon,9,Resolved
+2025-01-21,District-1,Traffic,19.9,Medium,Rain,Night,4,Resolved
+2025-01-22,District-5,Natural Disaster,3.3,Low,Snow,Evening,1,Closed
+2025-01-23,District-5,Medical,5.2,Medium,Clear,Afternoon,4,Resolved
+2025-01-24,District-1,Traffic,8.1,Medium,Fog,Night,2,Resolved
+2025-01-25,District-3,Natural Disaster,3.0,Low,Snow,Night,8,Resolved
+2025-01-26,District-5,Security,5.7,Medium,Clear,Morning,5,Escalated
+2025-01-27,District-3,Fire,19.9,Low,Clear,Evening,0,Resolved
+2025-01-28,District-5,Medical,9.0,High,Fog,Night,3,Resolved
+2025-01-29,District-4,Traffic,5.8,Critical,Clear,Night,1,Resolved
+2025-01-30,District-3,Traffic,19.7,Low,Snow,Night,4,Resolved
+2025-01-31,District-1,Security,2.2,Low,Fog,Morning,5,Resolved
+2025-02-01,District-1,Security,0.1,Critical,Fog,Evening,2,Closed
+2025-02-02,District-4,Medical,8.6,High,Rain,Morning,2,Resolved
+2025-02-03,District-1,Security,2.6,Medium,Snow,Night,2,Resolved
+2025-02-04,District-4,Natural Disaster,6.2,Low,Rain,Morning,3,Resolved
+2025-02-05,District-4,Security,8.9,Medium,Rain,Evening,3,Resolved
+2025-02-06,District-2,Natural Disaster,13.8,Medium,Fog,Afternoon,1,Resolved
+2025-02-07,District-4,Fire,0.9,Medium,Rain,Evening,5,Resolved
+2025-02-08,District-1,Security,16.1,Low,Storm,Night,3,Escalated
+2025-02-09,District-4,Medical,8.4,Medium,Clear,Night,4,Resolved
+2025-02-10,District-2,Fire,3.6,Low,Rain,Afternoon,1,Closed
+2025-02-11,District-4,Traffic,0.0,Medium,Snow,Evening,1,In Progress
+2025-02-12,District-4,Traffic,6.0,High,Storm,Afternoon,3,Resolved
+2025-02-13,District-4,Traffic,1.5,Low,Storm,Night,1,Resolved
+2025-02-14,District-3,Natural Disaster,5.2,Medium,Clear,Evening,3,In Progress
+2025-02-15,District-4,Medical,1.6,Low,Storm,Night,2,In Progress
+2025-02-16,District-1,Fire,1.8,Low,Storm,Afternoon,2,Resolved
+2025-02-17,District-1,Natural Disaster,6.8,Medium,Snow,Evening,3,Resolved
+2025-02-18,District-3,Security,12.2,Medium,Rain,Afternoon,6,Escalated
+2025-02-19,District-2,Security,10.2,Low,Rain,Afternoon,3,Resolved
+2025-02-20,District-4,Medical,8.1,High,Rain,Morning,1,Resolved
+2025-02-21,District-2,Fire,1.5,Medium,Fog,Evening,1,Resolved
+2025-02-22,District-4,Traffic,18.5,Medium,Storm,Afternoon,4,Closed
+2025-02-23,District-4,Traffic,11.8,Low,Clear,Morning,5,In Progress
+2025-02-24,District-5,Fire,1.4,Low,Rain,Morning,3,Resolved
+2025-02-25,District-3,Fire,0.1,Medium,Fog,Evening,6,Resolved
+2025-02-26,District-3,Security,18.0,Medium,Clear,Night,4,Resolved
+2025-02-27,District-2,Natural Disaster,20.9,Low,Fog,Morning,5,Escalated
+2025-02-28,District-4,Fire,0.1,Low,Storm,Evening,5,Resolved
+2025-03-01,District-5,Natural Disaster,2.2,Medium,Fog,Evening,4,Resolved
+2025-03-02,District-4,Security,4.8,High,Rain,Morning,2,In Progress
+2025-03-03,District-3,Medical,7.7,High,Rain,Evening,3,Resolved
+2025-03-04,District-2,Medical,4.8,Low,Rain,Afternoon,2,Resolved
+2025-03-05,District-2,Natural Disaster,3.9,High,Fog,Evening,4,Resolved
+2025-03-06,District-3,Security,4.5,High,Clear,Evening,3,Resolved
+2025-03-07,District-3,Traffic,11.3,Low,Fog,Night,3,Resolved
+2025-03-08,District-5,Security,0.1,Medium,Rain,Morning,2,Resolved
+2025-03-09,District-4,Fire,0.7,Medium,Storm,Afternoon,3,In Progress
+2025-03-10,District-2,Medical,0.8,High,Rain,Evening,4,Resolved
+2025-03-11,District-3,Traffic,14.0,Low,Rain,Night,2,Resolved
+2025-03-12,District-5,Security,2.1,Low,Rain,Afternoon,3,Resolved
+2025-03-13,District-4,Fire,4.4,Medium,Clear,Evening,5,Resolved
+2025-03-14,District-1,Traffic,2.4,Medium,Fog,Morning,4,Resolved
+2025-03-15,District-1,Natural Disaster,6.4,Medium,Snow,Morning,6,Resolved
+2025-03-16,District-1,Natural Disaster,0.6,Medium,Snow,Morning,2,In Progress
+2025-03-17,District-3,Fire,1.4,Low,Clear,Night,3,Resolved
+2025-03-18,District-4,Fire,11.7,Low,Clear,Evening,3,Escalated
+2025-03-19,District-5,Medical,7.2,Medium,Fog,Afternoon,2,In Progress
+2025-03-20,District-1,Security,0.9,High,Snow,Morning,3,Closed
+2025-03-21,District-2,Security,2.9,High,Storm,Evening,2,Resolved
+2025-03-22,District-2,Medical,5.1,Medium,Fog,Night,1,Resolved
+2025-03-23,District-5,Traffic,1.5,Low,Snow,Evening,1,Resolved
+2025-03-24,District-4,Fire,4.4,Low,Fog,Evening,7,Resolved
+2025-03-25,District-1,Medical,0.6,High,Fog,Afternoon,3,Resolved
+2025-03-26,District-4,Traffic,1.5,High,Rain,Evening,4,Resolved
+2025-03-27,District-4,Natural Disaster,6.7,Low,Clear,Afternoon,0,Resolved
+2025-03-28,District-5,Natural Disaster,10.0,Medium,Clear,Evening,0,Escalated
+2025-03-29,District-1,Natural Disaster,2.7,Medium,Storm,Afternoon,5,Escalated
+2025-03-30,District-1,Traffic,1.8,Low,Snow,Night,4,Resolved
+2025-03-31,District-2,Traffic,3.0,Low,Clear,Morning,0,Closed
+2025-04-01,District-5,Traffic,2.4,High,Rain,Morning,1,Resolved
+2025-04-02,District-4,Natural Disaster,11.0,Low,Storm,Afternoon,0,In Progress
+2025-04-03,District-2,Medical,10.6,Medium,Fog,Afternoon,3,In Progress
+2025-04-04,District-1,Traffic,11.6,Low,Snow,Evening,3,Resolved
+2025-04-05,District-4,Natural Disaster,7.9,Medium,Rain,Afternoon,3,In Progress
+2025-04-06,District-5,Fire,9.8,High,Snow,Morning,4,Escalated
+2025-04-07,District-2,Traffic,5.1,Medium,Rain,Evening,1,Resolved
+2025-04-08,District-5,Medical,9.6,Medium,Snow,Night,4,Resolved
+2025-04-09,District-2,Traffic,9.4,High,Fog,Evening,1,In Progress
+2025-04-10,District-3,Security,1.1,Critical,Fog,Afternoon,2,Resolved
+2025-04-11,District-3,Natural Disaster,4.8,Medium,Clear,Morning,1,Resolved
+2025-04-12,District-5,Fire,27.7,Medium,Rain,Morning,2,Resolved
+2025-04-13,District-1,Fire,7.2,High,Fog,Morning,2,Escalated
+2025-04-14,District-2,Medical,0.1,High,Fog,Afternoon,6,In Progress
+2025-04-15,District-2,Security,8.6,Low,Storm,Night,1,Resolved
+2025-04-16,District-2,Fire,0.9,Medium,Rain,Morning,2,In Progress
+2025-04-17,District-4,Fire,2.1,High,Clear,Night,2,Resolved
+2025-04-18,District-1,Natural Disaster,16.6,Medium,Clear,Morning,2,Escalated
+2025-04-19,District-1,Fire,10.7,Medium,Fog,Evening,3,Resolved
+2025-04-20,District-5,Traffic,4.9,Medium,Storm,Afternoon,7,Resolved
+2025-04-21,District-3,Fire,0.2,Critical,Rain,Afternoon,3,Resolved
+2025-04-22,District-5,Natural Disaster,12.6,Medium,Rain,Afternoon,1,Resolved
+2025-04-23,District-1,Medical,0.5,Low,Snow,Evening,4,In Progress
+2025-04-24,District-5,Traffic,5.2,Low,Fog,Afternoon,0,Closed
+2025-04-25,District-3,Fire,1.7,Medium,Fog,Night,5,Resolved
+2025-04-26,District-1,Natural Disaster,18.6,Low,Clear,Afternoon,5,In Progress
+2025-04-27,District-3,Security,23.7,High,Storm,Afternoon,2,In Progress
+2025-04-28,District-3,Medical,11.7,High,Storm,Afternoon,3,Resolved
+2025-04-29,District-3,Traffic,1.7,Medium,Snow,Morning,4,Escalated
+2025-04-30,District-1,Natural Disaster,18.4,Medium,Clear,Evening,0,Escalated
+2025-05-01,District-4,Traffic,7.4,Medium,Clear,Morning,0,Resolved
+2025-05-02,District-5,Security,10.2,Low,Fog,Morning,5,Resolved
+2025-05-03,District-1,Fire,13.0,High,Storm,Morning,5,Resolved
+2025-05-04,District-2,Fire,1.0,Medium,Snow,Morning,3,Resolved
+2025-05-05,District-5,Fire,1.2,Medium,Rain,Evening,3,Closed
+2025-05-06,District-4,Security,16.5,Critical,Fog,Afternoon,7,Escalated
+2025-05-07,District-2,Traffic,1.5,Medium,Rain,Morning,3,Resolved
+2025-05-08,District-3,Natural Disaster,3.5,Medium,Snow,Afternoon,3,Resolved
+2025-05-09,District-2,Security,5.6,Critical,Clear,Night,2,Resolved
+2025-05-10,District-3,Fire,7.5,Critical,Storm,Night,4,Resolved
+2025-05-11,District-1,Natural Disaster,22.2,High,Rain,Evening,1,Resolved
+2025-05-12,District-5,Natural Disaster,5.8,Medium,Fog,Morning,2,Resolved
+2025-05-13,District-3,Traffic,1.9,Critical,Storm,Afternoon,3,Closed
+2025-05-14,District-3,Fire,7.8,High,Fog,Evening,4,In Progress
+2025-05-15,District-1,Traffic,8.1,Critical,Rain,Evening,4,Resolved
+2025-05-16,District-3,Traffic,11.3,Low,Storm,Morning,5,In Progress
+2025-05-17,District-5,Security,1.9,High,Storm,Morning,0,Resolved
+2025-05-18,District-4,Fire,2.6,High,Storm,Morning,2,Resolved
+2025-05-19,District-1,Medical,16.3,High,Rain,Evening,3,Resolved
+2025-05-20,District-5,Traffic,2.9,Medium,Fog,Afternoon,4,Escalated
+2025-05-21,District-2,Medical,11.7,Low,Rain,Afternoon,2,In Progress
+2025-05-22,District-1,Security,7.6,High,Fog,Morning,2,Resolved
+2025-05-23,District-4,Traffic,6.4,High,Fog,Evening,3,Resolved
+2025-05-24,District-2,Medical,7.6,High,Fog,Evening,5,Resolved
+2025-05-25,District-5,Fire,0.8,Low,Storm,Morning,5,Escalated
+2025-05-26,District-4,Natural Disaster,1.0,High,Storm,Afternoon,5,Closed
+2025-05-27,District-5,Security,16.7,Medium,Fog,Evening,2,Escalated
+2025-05-28,District-1,Fire,3.5,Low,Storm,Evening,3,In Progress
+2025-05-29,District-4,Medical,24.0,Critical,Rain,Morning,3,Escalated
+2025-05-30,District-1,Traffic,9.0,High,Clear,Afternoon,1,Escalated
+2025-05-31,District-2,Fire,6.6,High,Fog,Morning,3,Resolved
+2025-06-01,District-4,Fire,7.4,Critical,Rain,Night,3,Resolved
+2025-06-02,District-3,Medical,6.4,Medium,Storm,Afternoon,6,Resolved
+2025-06-03,District-1,Natural Disaster,0.7,Critical,Fog,Evening,4,Resolved
+2025-06-04,District-5,Traffic,1.8,Medium,Rain,Afternoon,4,Resolved
+2025-06-05,District-4,Security,6.5,High,Fog,Evening,1,Resolved
+2025-06-06,District-1,Security,17.0,Low,Rain,Evening,1,Resolved
+2025-06-07,District-3,Fire,23.1,Low,Snow,Night,3,Escalated
+2025-06-08,District-3,Natural Disaster,4.7,High,Rain,Night,1,Resolved
+2025-06-09,District-4,Security,5.3,Medium,Snow,Evening,4,Closed
+2025-06-10,District-2,Medical,0.9,Medium,Rain,Afternoon,4,Resolved
+2025-06-11,District-3,Natural Disaster,6.8,Medium,Storm,Evening,4,Resolved
+2025-06-12,District-1,Medical,8.7,Low,Storm,Evening,2,Resolved
+2025-06-13,District-5,Medical,18.2,Medium,Clear,Night,2,Closed
+2025-06-14,District-2,Fire,1.8,High,Storm,Morning,2,Escalated
+2025-06-15,District-4,Medical,13.5,Low,Storm,Afternoon,2,Resolved
+2025-06-16,District-4,Traffic,4.2,Medium,Storm,Evening,3,Resolved
+2025-06-17,District-1,Security,6.3,Critical,Snow,Night,3,Resolved
+2025-06-18,District-1,Natural Disaster,12.7,Critical,Storm,Afternoon,5,Resolved
+2025-06-19,District-1,Medical,1.4,High,Storm,Morning,1,Closed
+2025-06-20,District-5,Medical,20.7,Medium,Snow,Morning,2,Resolved
+2025-06-21,District-3,Fire,2.5,Medium,Snow,Evening,7,Escalated
+2025-06-22,District-5,Natural Disaster,7.9,Low,Rain,Afternoon,3,Resolved
+2025-06-23,District-3,Security,0.0,Medium,Fog,Afternoon,1,Resolved
+2025-06-24,District-3,Natural Disaster,3.9,Medium,Snow,Night,2,In Progress
+2025-06-25,District-1,Security,8.0,Low,Rain,Afternoon,3,In Progress
+2025-06-26,District-3,Traffic,1.6,Medium,Clear,Evening,3,Resolved
+2025-06-27,District-4,Medical,6.1,Critical,Fog,Morning,1,In Progress
+2025-06-28,District-3,Medical,8.3,High,Storm,Morning,1,Resolved
+2025-06-29,District-1,Security,2.1,High,Rain,Afternoon,3,Resolved
+2025-06-30,District-1,Natural Disaster,3.7,High,Fog,Night,5,Resolved
+2025-07-01,District-1,Security,2.3,Low,Storm,Morning,7,Resolved
+2025-07-02,District-3,Fire,0.0,Low,Clear,Afternoon,3,Escalated
+2025-07-03,District-5,Natural Disaster,10.3,High,Storm,Night,1,Resolved
+2025-07-04,District-1,Medical,0.8,Low,Fog,Night,4,In Progress
+2025-07-05,District-1,Natural Disaster,3.4,High,Rain,Afternoon,3,In Progress
+2025-07-06,District-2,Traffic,13.7,Critical,Storm,Night,4,Resolved
+2025-07-07,District-5,Security,14.0,Medium,Rain,Night,3,In Progress
+2025-07-08,District-4,Fire,15.8,Medium,Rain,Morning,3,Escalated
+2025-07-09,District-4,Medical,60.4,High,Storm,Evening,5,Escalated
+2025-07-10,District-3,Natural Disaster,3.5,Medium,Storm,Evening,4,Resolved
+2025-07-11,District-2,Natural Disaster,10.1,High,Snow,Morning,3,Closed
+2025-07-12,District-1,Traffic,0.2,Medium,Fog,Evening,4,Resolved
+2025-07-13,District-2,Natural Disaster,5.8,Medium,Snow,Morning,6,Closed
+2025-07-14,District-2,Security,0.8,High,Storm,Morning,1,Resolved
+2025-07-15,District-3,Traffic,1.9,High,Fog,Morning,3,Resolved
+2025-07-16,District-1,Security,8.3,High,Clear,Night,3,In Progress
+2025-07-17,District-1,Traffic,13.5,Low,Storm,Afternoon,6,Resolved
+2025-07-18,District-4,Medical,5.6,Medium,Snow,Night,1,Resolved
+2025-07-19,District-2,Natural Disaster,5.1,Critical,Storm,Evening,2,Closed
+2025-07-20,District-5,Traffic,5.7,Low,Rain,Morning,3,Resolved
+2025-07-21,District-2,Security,10.9,Medium,Fog,Evening,3,Resolved
+2025-07-22,District-3,Traffic,5.6,Low,Storm,Evening,0,Resolved
+2025-07-23,District-1,Security,5.1,High,Snow,Afternoon,6,Resolved
+2025-07-24,District-3,Natural Disaster,2.8,Medium,Snow,Night,4,Closed
+2025-07-25,District-1,Security,3.6,Low,Rain,Morning,2,In Progress
+2025-07-26,District-4,Medical,2.2,High,Fog,Evening,3,Resolved
+2025-07-27,District-2,Traffic,1.5,Medium,Snow,Afternoon,2,Resolved
+2025-07-28,District-3,Security,5.6,Medium,Rain,Morning,7,Resolved
+2025-07-29,District-1,Fire,1.2,Low,Snow,Night,5,In Progress
+2025-07-30,District-2,Medical,6.5,Medium,Snow,Evening,2,Resolved
+2025-07-31,District-1,Traffic,15.3,Critical,Fog,Night,5,Closed
+2025-08-01,District-2,Security,13.5,Low,Clear,Afternoon,2,Escalated
+2025-08-02,District-5,Natural Disaster,9.7,Medium,Clear,Evening,3,In Progress
+2025-08-03,District-4,Traffic,11.2,Medium,Storm,Afternoon,1,Escalated
+2025-08-04,District-5,Security,5.6,High,Storm,Evening,3,Resolved
+2025-08-05,District-4,Security,15.1,High,Storm,Night,5,Escalated
+2025-08-06,District-2,Fire,3.1,Low,Clear,Morning,2,In Progress
+2025-08-07,District-2,Traffic,23.7,Medium,Snow,Afternoon,3,Resolved
+2025-08-08,District-1,Natural Disaster,1.8,Low,Snow,Evening,2,Resolved
+2025-08-09,District-3,Medical,6.6,High,Storm,Evening,2,Resolved
+2025-08-10,District-3,Natural Disaster,2.1,Medium,Storm,Morning,4,Resolved
+2025-08-11,District-2,Traffic,6.7,Medium,Snow,Evening,0,Resolved
+2025-08-12,District-2,Medical,0.8,Low,Fog,Night,4,In Progress
+2025-08-13,District-3,Natural Disaster,8.7,Medium,Rain,Evening,2,Resolved
+2025-08-14,District-4,Traffic,2.5,Critical,Snow,Morning,2,Resolved
+2025-08-15,District-3,Security,6.3,Low,Clear,Morning,3,Resolved
+2025-08-16,District-2,Security,3.3,Medium,Storm,Afternoon,6,Resolved
+2025-08-17,District-4,Medical,3.6,Critical,Storm,Evening,1,Resolved
+2025-08-18,District-3,Security,0.9,High,Fog,Morning,5,Closed
+2025-08-19,District-4,Traffic,17.2,Medium,Storm,Afternoon,2,Resolved
+2025-08-20,District-5,Fire,9.4,Medium,Clear,Night,3,Escalated
+2025-08-21,District-2,Natural Disaster,4.0,Medium,Clear,Evening,6,Resolved
+2025-08-22,District-1,Fire,1.6,High,Storm,Afternoon,3,Resolved
+2025-08-23,District-1,Traffic,8.9,Critical,Storm,Afternoon,3,Escalated
+2025-08-24,District-5,Natural Disaster,6.1,High,Fog,Morning,0,Resolved
+2025-08-25,District-2,Security,3.5,Low,Clear,Morning,1,In Progress
+2025-08-26,District-4,Security,4.1,High,Snow,Night,3,Resolved
+2025-08-27,District-1,Medical,1.6,Low,Fog,Morning,2,Escalated
+2025-08-28,District-1,Traffic,0.3,Medium,Clear,Morning,4,Resolved
+2025-08-29,District-1,Traffic,8.9,Medium,Storm,Afternoon,3,Resolved
+2025-08-30,District-4,Medical,2.6,Low,Clear,Evening,6,Closed
+2025-08-31,District-4,Fire,19.4,Critical,Clear,Morning,0,In Progress
+2025-09-01,District-3,Fire,1.7,Medium,Fog,Morning,4,In Progress
+2025-09-02,District-1,Fire,6.1,Low,Snow,Afternoon,8,Resolved
+2025-09-03,District-1,Fire,36.2,High,Snow,Night,3,In Progress
+2025-09-04,District-2,Fire,3.1,Medium,Storm,Afternoon,4,Resolved
+2025-09-05,District-3,Medical,0.1,Medium,Storm,Night,2,Resolved
+2025-09-06,District-2,Security,2.0,Medium,Snow,Afternoon,5,Escalated
+2025-09-07,District-3,Fire,1.0,Medium,Rain,Afternoon,1,Resolved
+2025-09-08,District-4,Fire,10.7,Medium,Rain,Evening,2,Resolved
+2025-09-09,District-2,Fire,3.3,Critical,Fog,Night,2,In Progress
+2025-09-10,District-4,Traffic,1.8,Low,Clear,Night,1,Escalated
+2025-09-11,District-4,Security,7.0,Medium,Rain,Morning,2,Escalated
+2025-09-12,District-1,Medical,2.1,Low,Rain,Afternoon,2,Escalated
+2025-09-13,District-5,Security,1.5,Medium,Rain,Afternoon,5,Resolved
+2025-09-14,District-5,Natural Disaster,2.9,Critical,Snow,Evening,3,Escalated
+2025-09-15,District-2,Traffic,0.1,Medium,Rain,Night,4,In Progress
+2025-09-16,District-3,Medical,14.2,High,Clear,Morning,3,In Progress
+2025-09-17,District-1,Medical,3.1,Low,Clear,Afternoon,4,Resolved
+2025-09-18,District-1,Medical,0.9,Low,Clear,Night,1,Resolved
+2025-09-19,District-2,Natural Disaster,1.1,Low,Storm,Evening,4,Closed
+2025-09-20,District-4,Natural Disaster,9.6,Low,Rain,Afternoon,4,Resolved
+2025-09-21,District-3,Natural Disaster,3.0,Medium,Fog,Evening,3,Resolved
+2025-09-22,District-4,Natural Disaster,4.9,Low,Rain,Afternoon,1,Resolved
+2025-09-23,District-3,Natural Disaster,9.1,Critical,Clear,Morning,2,Escalated
+2025-09-24,District-3,Medical,0.8,High,Rain,Morning,1,Resolved
+2025-09-25,District-2,Traffic,0.7,High,Storm,Afternoon,2,Resolved
+2025-09-26,District-4,Traffic,11.4,Medium,Clear,Evening,2,Escalated
+2025-09-27,District-4,Medical,3.4,High,Snow,Morning,2,Resolved
+2025-09-28,District-4,Fire,9.9,Medium,Clear,Morning,7,Resolved
+2025-09-29,District-2,Traffic,27.2,High,Fog,Afternoon,3,Resolved
+2025-09-30,District-4,Traffic,13.7,Medium,Clear,Afternoon,2,Resolved
+2025-10-01,District-5,Security,13.3,High,Clear,Evening,6,Resolved
+2025-10-02,District-3,Security,8.6,Low,Rain,Morning,4,Closed
+2025-10-03,District-4,Natural Disaster,7.3,Critical,Snow,Evening,0,Escalated
+2025-10-04,District-2,Fire,0.8,Medium,Clear,Evening,7,Resolved
+2025-10-05,District-3,Natural Disaster,8.0,High,Storm,Afternoon,5,Resolved
+2025-10-06,District-3,Traffic,6.4,Medium,Rain,Afternoon,4,Resolved
+2025-10-07,District-4,Fire,0.5,Low,Clear,Night,1,In Progress
+2025-10-08,District-3,Traffic,0.1,Low,Rain,Night,6,Closed
+2025-10-09,District-2,Medical,3.1,Medium,Clear,Morning,4,Resolved
+2025-10-10,District-1,Fire,3.3,Medium,Snow,Afternoon,5,Resolved
+2025-10-11,District-4,Traffic,0.0,Medium,Rain,Afternoon,2,Resolved
+2025-10-12,District-2,Medical,2.2,High,Clear,Evening,5,Escalated
+2025-10-13,District-3,Medical,0.7,Medium,Snow,Afternoon,2,Resolved
+2025-10-14,District-1,Fire,33.2,Low,Fog,Morning,5,Resolved
+2025-10-15,District-5,Fire,2.0,High,Storm,Evening,4,Resolved
+2025-10-16,District-4,Natural Disaster,1.8,Low,Fog,Afternoon,4,Resolved
+2025-10-17,District-3,Traffic,7.4,Medium,Storm,Night,5,Resolved
+2025-10-18,District-5,Natural Disaster,9.6,Low,Storm,Afternoon,1,Resolved
+2025-10-19,District-1,Fire,4.3,Medium,Fog,Evening,6,Resolved
+2025-10-20,District-4,Medical,5.2,Low,Fog,Evening,6,Escalated
+2025-10-21,District-4,Security,11.2,Medium,Fog,Night,5,In Progress
+2025-10-22,District-2,Fire,49.3,Low,Fog,Evening,5,In Progress
+2025-10-23,District-2,Medical,7.8,Low,Fog,Evening,3,In Progress
+2025-10-24,District-5,Natural Disaster,11.0,Medium,Rain,Evening,1,Resolved
+2025-10-25,District-1,Medical,2.0,High,Clear,Night,3,Escalated
+2025-10-26,District-2,Fire,4.2,Medium,Clear,Night,3,In Progress
+2025-10-27,District-4,Traffic,0.4,High,Clear,Afternoon,2,Resolved
+2025-10-28,District-2,Traffic,10.5,Critical,Clear,Night,0,Escalated
+2025-10-29,District-4,Traffic,2.8,High,Rain,Morning,4,Closed
+2025-10-30,District-4,Traffic,10.0,High,Clear,Night,1,Resolved
+2025-10-31,District-5,Traffic,16.7,Medium,Rain,Evening,2,Resolved
+2025-11-01,District-4,Medical,3.0,Medium,Clear,Morning,6,Escalated
+2025-11-02,District-3,Traffic,1.8,Medium,Storm,Evening,4,In Progress
+2025-11-03,District-5,Traffic,2.6,Low,Snow,Morning,0,Closed
+2025-11-04,District-5,Security,1.0,High,Storm,Morning,5,In Progress
+2025-11-05,District-1,Traffic,30.7,Critical,Fog,Morning,4,Closed
+2025-11-06,District-5,Security,6.4,Medium,Rain,Morning,2,Resolved
+2025-11-07,District-4,Fire,1.2,Medium,Storm,Night,2,Resolved
+2025-11-08,District-2,Fire,28.1,Low,Rain,Afternoon,4,In Progress
+2025-11-09,District-4,Medical,0.3,Critical,Storm,Afternoon,4,Resolved
+2025-11-10,District-3,Security,18.9,Medium,Snow,Morning,4,In Progress
+2025-11-11,District-5,Traffic,8.1,Low,Fog,Morning,0,In Progress
+2025-11-12,District-4,Fire,5.1,High,Fog,Afternoon,3,Closed
+2025-11-13,District-5,Security,15.7,Medium,Storm,Evening,4,Closed
+2025-11-14,District-5,Fire,26.1,Medium,Fog,Evening,5,In Progress
+2025-11-15,District-2,Natural Disaster,27.0,High,Storm,Night,4,Resolved
+2025-11-16,District-5,Traffic,8.6,High,Fog,Evening,1,Resolved
+2025-11-17,District-5,Traffic,36.5,Medium,Storm,Evening,3,Resolved
+2025-11-18,District-3,Natural Disaster,0.4,Critical,Rain,Night,0,Resolved
+2025-11-19,District-5,Fire,0.4,High,Rain,Night,2,Resolved
+2025-11-20,District-5,Natural Disaster,8.6,Medium,Fog,Morning,1,Resolved
+2025-11-21,District-2,Security,12.0,Medium,Clear,Morning,1,In Progress
+2025-11-22,District-4,Natural Disaster,4.9,Medium,Snow,Evening,1,Resolved
+2025-11-23,District-5,Fire,4.1,Low,Clear,Afternoon,5,Closed
+2025-11-24,District-2,Traffic,1.7,Medium,Snow,Night,4,Resolved
+2025-11-25,District-2,Traffic,22.7,Medium,Fog,Night,3,Resolved
+2025-11-26,District-5,Security,41.6,Medium,Storm,Morning,3,Resolved
+2025-11-27,District-4,Traffic,13.5,Medium,Clear,Afternoon,2,Resolved
+2025-11-28,District-5,Traffic,9.0,High,Snow,Night,4,Resolved
+2025-11-29,District-3,Security,4.5,High,Storm,Afternoon,2,Resolved
+2025-11-30,District-5,Natural Disaster,4.0,Medium,Storm,Morning,6,Resolved
+2025-12-01,District-3,Natural Disaster,14.3,Medium,Rain,Afternoon,2,Resolved
+2025-12-02,District-5,Traffic,12.8,Medium,Snow,Night,2,Resolved
+2025-12-03,District-3,Medical,1.2,High,Snow,Evening,3,Resolved
+2025-12-04,District-1,Fire,19.9,Medium,Clear,Morning,1,Resolved
+2025-12-05,District-3,Natural Disaster,1.0,Medium,Storm,Evening,6,Resolved
+2025-12-06,District-2,Fire,16.4,Critical,Snow,Night,3,In Progress
+2025-12-07,District-4,Security,0.5,Critical,Snow,Night,2,Resolved
+2025-12-08,District-2,Natural Disaster,6.5,Medium,Clear,Afternoon,3,Resolved
+2025-12-09,District-1,Security,19.1,Medium,Storm,Afternoon,0,Resolved
+2025-12-10,District-1,Medical,2.7,Medium,Rain,Night,6,Resolved
+2025-12-11,District-1,Natural Disaster,8.7,Medium,Clear,Afternoon,2,Resolved
+2025-12-12,District-5,Security,17.1,High,Clear,Afternoon,3,Resolved
+2025-12-13,District-1,Natural Disaster,6.4,High,Storm,Afternoon,1,Resolved
+2025-12-14,District-2,Security,11.5,Medium,Snow,Morning,3,In Progress
+2025-12-15,District-2,Security,21.8,Critical,Clear,Evening,4,In Progress
+2025-12-16,District-2,Fire,15.5,Critical,Rain,Morning,2,Resolved
+2025-12-17,District-2,Natural Disaster,10.0,Medium,Snow,Afternoon,4,Resolved
+2025-12-18,District-4,Fire,13.8,Medium,Snow,Afternoon,3,Escalated
+2025-12-19,District-4,Natural Disaster,2.7,Medium,Snow,Night,2,Resolved
+2025-12-20,District-3,Security,1.0,Medium,Clear,Afternoon,2,Closed
+2025-12-21,District-1,Fire,7.6,Medium,Snow,Morning,3,Resolved
+2025-12-22,District-5,Security,13.6,Low,Fog,Afternoon,0,Resolved
+2025-12-23,District-2,Natural Disaster,2.9,Low,Clear,Afternoon,4,Resolved
+2025-12-24,District-5,Natural Disaster,1.4,Low,Snow,Evening,8,Resolved
+2025-12-25,District-5,Fire,3.6,Low,Snow,Night,1,Resolved
+2025-12-26,District-4,Security,4.1,Low,Storm,Afternoon,2,Escalated
+2025-12-27,District-3,Security,25.1,Low,Clear,Afternoon,3,Resolved
+2025-12-28,District-2,Security,14.1,High,Clear,Morning,3,In Progress
+2025-12-29,District-5,Natural Disaster,13.5,Critical,Snow,Afternoon,0,Resolved
+2025-12-30,District-3,Natural Disaster,1.8,High,Rain,Night,6,Resolved
+2025-12-31,District-5,Medical,0.9,Medium,Rain,Afternoon,1,Resolved
+2026-01-01,District-1,Medical,9.6,Medium,Clear,Morning,1,In Progress
+2026-01-02,District-4,Security,5.0,Medium,Snow,Afternoon,1,Closed
+2026-01-03,District-5,Traffic,0.1,Medium,Snow,Morning,4,In Progress
+2026-01-04,District-5,Fire,9.4,Critical,Fog,Afternoon,2,In Progress
+2026-01-05,District-3,Natural Disaster,6.2,Medium,Storm,Evening,2,Resolved
+2026-01-06,District-3,Natural Disaster,6.0,Medium,Rain,Night,6,Closed
+2026-01-07,District-3,Traffic,0.3,Medium,Rain,Afternoon,0,Closed
+2026-01-08,District-2,Fire,0.9,Low,Snow,Morning,1,Resolved
+2026-01-09,District-4,Traffic,3.1,Critical,Fog,Morning,1,Resolved
+2026-01-10,District-5,Security,5.4,Medium,Rain,Afternoon,4,In Progress
+2026-01-11,District-2,Security,13.1,High,Rain,Night,2,Resolved
+2026-01-12,District-4,Traffic,9.1,High,Storm,Afternoon,4,Resolved
+2026-01-13,District-1,Traffic,7.0,Medium,Rain,Night,1,Resolved
+2026-01-14,District-2,Fire,6.1,Medium,Storm,Night,2,Resolved
+2026-01-15,District-2,Fire,2.6,Medium,Fog,Night,2,Resolved
+2026-01-16,District-5,Security,20.2,Medium,Fog,Night,2,Resolved
+2026-01-17,District-2,Natural Disaster,7.0,Medium,Snow,Night,2,Resolved
+2026-01-18,District-4,Fire,26.5,Medium,Rain,Afternoon,5,Resolved
+2026-01-19,District-4,Fire,2.2,Low,Rain,Night,9,Resolved
+2026-01-20,District-2,Fire,12.8,Low,Rain,Evening,5,Resolved
+2026-01-21,District-2,Traffic,0.7,Medium,Fog,Evening,1,Resolved
+2026-01-22,District-3,Medical,0.0,Medium,Fog,Morning,3,Resolved
+2026-01-23,District-2,Natural Disaster,1.4,Medium,Clear,Night,1,Resolved
+2026-01-24,District-4,Natural Disaster,2.5,High,Snow,Night,6,Resolved
+2026-01-25,District-3,Natural Disaster,8.5,Medium,Rain,Evening,4,Escalated
+2026-01-26,District-1,Fire,9.5,Medium,Clear,Afternoon,2,In Progress
+2026-01-27,District-4,Traffic,6.1,Low,Rain,Morning,2,In Progress
+2026-01-28,District-1,Medical,4.1,High,Clear,Night,5,Resolved
+2026-01-29,District-5,Traffic,8.5,Medium,Fog,Morning,3,Closed
+2026-01-30,District-3,Fire,11.3,Low,Clear,Evening,1,Resolved
+2026-01-31,District-5,Fire,2.4,Low,Fog,Evening,3,Resolved
+2026-02-01,District-4,Traffic,5.3,High,Storm,Evening,3,Closed
+2026-02-02,District-3,Traffic,9.6,High,Rain,Afternoon,3,Resolved
+2026-02-03,District-5,Security,9.1,High,Storm,Morning,1,Escalated
+2026-02-04,District-4,Security,18.2,Low,Snow,Evening,4,Resolved
+2026-02-05,District-5,Security,0.5,High,Clear,Afternoon,2,In Progress
+2026-02-06,District-1,Medical,2.5,Low,Clear,Night,3,Resolved
+2026-02-07,District-4,Traffic,4.6,Medium,Snow,Morning,4,Resolved
+2026-02-08,District-1,Medical,4.6,Low,Clear,Afternoon,2,In Progress
+2026-02-09,District-4,Natural Disaster,11.5,Low,Storm,Afternoon,0,Resolved
+2026-02-10,District-3,Traffic,1.4,Low,Storm,Night,3,Resolved
+2026-02-11,District-1,Medical,12.7,Medium,Snow,Night,5,Escalated
+2026-02-12,District-1,Traffic,0.3,High,Clear,Afternoon,2,In Progress
+2026-02-13,District-5,Security,1.8,High,Rain,Night,3,Resolved
+2026-02-14,District-2,Medical,4.8,Medium,Storm,Morning,1,Escalated
+2026-02-15,District-5,Natural Disaster,7.3,Low,Rain,Night,2,Resolved
+2026-02-16,District-3,Medical,4.8,Low,Storm,Night,6,Resolved
+2026-02-17,District-4,Medical,24.0,High,Storm,Evening,3,Resolved
+2026-02-18,District-4,Medical,4.6,Low,Snow,Afternoon,2,Closed
+2026-02-19,District-2,Medical,3.9,High,Rain,Evening,5,Resolved
+2026-02-20,District-4,Traffic,9.9,Medium,Fog,Afternoon,3,Closed
+2026-02-21,District-1,Natural Disaster,10.5,Medium,Rain,Morning,1,In Progress
+2026-02-22,District-2,Natural Disaster,25.3,High,Clear,Night,2,Resolved
+2026-02-23,District-5,Traffic,11.6,Medium,Clear,Evening,5,In Progress
+2026-02-24,District-4,Security,0.2,Low,Clear,Afternoon,2,Resolved
+2026-02-25,District-3,Security,1.0,Medium,Rain,Morning,4,Resolved
+2026-02-26,District-5,Security,5.1,Medium,Fog,Evening,2,Resolved
+2026-02-27,District-2,Fire,23.6,Medium,Rain,Afternoon,3,Resolved
+2026-02-28,District-1,Fire,12.1,Low,Fog,Night,4,Resolved
+2026-03-01,District-3,Security,0.5,Medium,Storm,Evening,3,Resolved
+2026-03-02,District-1,Natural Disaster,6.8,Low,Rain,Morning,3,Resolved
+2026-03-03,District-1,Traffic,4.5,Low,Snow,Night,2,In Progress
+2026-03-04,District-2,Natural Disaster,6.9,High,Storm,Evening,4,In Progress
+2026-03-05,District-2,Natural Disaster,8.2,Medium,Rain,Afternoon,1,Resolved
+2026-03-06,District-1,Security,1.0,Low,Rain,Morning,3,Resolved
+2026-03-07,District-1,Medical,0.1,Medium,Fog,Night,2,Resolved
+2026-03-08,District-4,Natural Disaster,8.2,Medium,Rain,Night,0,Escalated
+2026-03-09,District-4,Medical,10.0,High,Snow,Night,4,Resolved
+2026-03-10,District-1,Fire,6.9,Medium,Storm,Morning,3,Resolved
+2026-03-11,District-3,Security,1.9,High,Clear,Afternoon,3,Escalated
+2026-03-12,District-1,Medical,4.2,High,Rain,Night,10,Resolved
+2026-03-13,District-5,Medical,8.0,Critical,Storm,Night,3,Resolved
+2026-03-14,District-4,Security,1.2,Low,Snow,Night,4,Resolved
+2026-03-15,District-5,Fire,4.3,Low,Storm,Night,3,Resolved
+2026-03-16,District-4,Traffic,33.8,Critical,Clear,Night,4,Closed
+2026-03-17,District-3,Natural Disaster,7.5,Medium,Snow,Night,2,In Progress
+2026-03-18,District-3,Security,0.2,High,Snow,Afternoon,2,Closed
+2026-03-19,District-1,Traffic,0.9,High,Fog,Morning,4,Resolved
+2026-03-20,District-3,Fire,1.2,High,Clear,Night,3,In Progress
+2026-03-21,District-5,Medical,1.1,High,Clear,Night,2,Escalated
+2026-03-22,District-5,Traffic,0.0,Medium,Rain,Afternoon,2,Resolved
+2026-03-23,District-3,Medical,0.3,Critical,Fog,Morning,3,Resolved
+2026-03-24,District-3,Fire,2.6,Medium,Rain,Afternoon,3,Closed
+2026-03-25,District-2,Fire,13.2,Low,Clear,Evening,2,In Progress
+2026-03-26,District-1,Medical,7.3,Medium,Clear,Night,2,In Progress
+2026-03-27,District-3,Medical,0.1,Medium,Fog,Afternoon,4,Resolved
+2026-03-28,District-5,Natural Disaster,1.1,Low,Clear,Night,1,Resolved
+2026-03-29,District-1,Medical,18.1,Critical,Storm,Evening,3,Resolved
+2026-03-30,District-2,Medical,8.7,Medium,Rain,Night,4,Resolved
+2026-03-31,District-2,Fire,0.8,Low,Snow,Morning,5,In Progress
+2026-04-01,District-2,Traffic,14.6,High,Snow,Evening,2,Resolved
+2026-04-02,District-5,Traffic,11.6,Low,Rain,Morning,3,Resolved
+2026-04-03,District-1,Medical,13.8,Low,Snow,Night,3,Resolved
+2026-04-04,District-3,Traffic,5.5,Critical,Rain,Afternoon,2,Resolved
+2026-04-05,District-4,Security,5.7,Low,Fog,Afternoon,2,In Progress
+2026-04-06,District-5,Traffic,6.3,Critical,Storm,Afternoon,2,Escalated
+2026-04-07,District-3,Traffic,2.6,Medium,Rain,Afternoon,3,Resolved
+2026-04-08,District-4,Natural Disaster,3.1,High,Storm,Evening,0,Resolved
+2026-04-09,District-5,Natural Disaster,13.9,Medium,Snow,Afternoon,2,Escalated
+2026-04-10,District-4,Fire,19.1,Low,Rain,Evening,3,Resolved
+2026-04-11,District-4,Medical,21.7,Medium,Rain,Evening,7,In Progress
+2026-04-12,District-1,Natural Disaster,2.9,Low,Clear,Afternoon,1,Resolved
+2026-04-13,District-2,Medical,1.6,Critical,Storm,Morning,3,Resolved
+2026-04-14,District-1,Security,12.1,Low,Rain,Afternoon,1,Resolved
+2026-04-15,District-2,Traffic,3.9,Low,Snow,Afternoon,2,Resolved
+2026-04-16,District-2,Traffic,10.8,Low,Snow,Evening,2,In Progress
+2026-04-17,District-3,Fire,1.1,Medium,Storm,Night,4,Escalated
+2026-04-18,District-1,Medical,3.2,Low,Clear,Morning,1,In Progress
+2026-04-19,District-4,Medical,41.0,Medium,Storm,Evening,1,Resolved
+2026-04-20,District-1,Traffic,7.5,High,Snow,Morning,1,Resolved
+2026-04-21,District-3,Natural Disaster,17.7,Critical,Clear,Morning,1,Escalated
+2026-04-22,District-4,Natural Disaster,4.5,Low,Rain,Evening,2,Resolved
+2026-04-23,District-5,Fire,18.7,High,Storm,Afternoon,2,Resolved
+2026-04-24,District-3,Fire,1.0,High,Fog,Morning,1,In Progress
+2026-04-25,District-5,Natural Disaster,2.2,Medium,Fog,Evening,4,Closed
+2026-04-26,District-1,Natural Disaster,6.2,Low,Snow,Evening,2,Resolved
+2026-04-27,District-4,Traffic,23.6,Critical,Fog,Afternoon,2,Resolved
+2026-04-28,District-3,Medical,10.2,Low,Clear,Evening,2,Resolved
+2026-04-29,District-5,Fire,51.9,Medium,Snow,Night,3,Resolved
+2026-04-30,District-3,Traffic,0.1,High,Snow,Morning,1,Escalated
+2026-05-01,District-1,Natural Disaster,1.4,High,Fog,Afternoon,2,Closed
+2026-05-02,District-4,Fire,1.0,Medium,Snow,Afternoon,2,Resolved
+2026-05-03,District-2,Fire,8.4,Medium,Storm,Afternoon,4,In Progress
+2026-05-04,District-5,Traffic,0.9,Low,Clear,Night,4,Resolved
+2026-05-05,District-2,Security,13.3,Low,Fog,Night,1,Resolved
+2026-05-06,District-1,Traffic,18.4,Medium,Clear,Afternoon,4,In Progress
+2026-05-07,District-5,Natural Disaster,8.1,High,Fog,Evening,6,Escalated
+2026-05-08,District-1,Fire,5.5,Low,Clear,Evening,2,Resolved
+2026-05-09,District-3,Fire,0.4,Medium,Clear,Afternoon,4,Resolved
+2026-05-10,District-2,Medical,9.9,High,Storm,Afternoon,2,Resolved
+2026-05-11,District-3,Security,2.4,High,Clear,Afternoon,3,Closed
+2026-05-12,District-4,Security,9.5,High,Clear,Evening,1,Resolved
+2026-05-13,District-2,Fire,1.2,Medium,Rain,Morning,4,Closed
+2026-05-14,District-4,Security,15.5,Medium,Storm,Evening,6,Resolved
+2026-05-15,District-3,Fire,0.3,Low,Fog,Afternoon,4,Escalated

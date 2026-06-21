@@ -1,0 +1,501 @@
+month,program,participants,satisfaction_score,health_outcome_index,engagement_hours,referral_count,demographic_group,cost_per_participant
+2024-01-31,Youth Development,144,3.93,57.2,5.3,32,Youth,163.84
+2024-02-29,Fitness,168,2.67,76.2,10.5,23,Youth,149.12
+2024-03-31,Senior Wellness,136,3.88,81.0,53.0,23,Family,173.27
+2024-04-30,Nutrition,163,3.8,53.3,6.2,35,Senior,194.12
+2024-05-31,Nutrition,137,3.23,68.4,3.7,21,Adult,452.37
+2024-06-30,Youth Development,135,2.91,64.8,99.7,37,Family,384.61
+2024-07-31,Nutrition,133,3.91,72.2,17.5,27,Family,79.5
+2024-08-31,Mental Health,141,2.95,79.3,9.0,25,Family,58.11
+2024-09-30,Fitness,136,4.62,89.0,8.2,20,Adult,427.01
+2024-10-31,Nutrition,156,3.96,87.5,11.4,38,Family,104.59
+2024-11-30,Mental Health,146,4.69,70.5,5.6,28,Adult,180.56
+2024-12-31,Fitness,159,2.55,78.4,18.3,23,Veteran,214.6
+2025-01-31,Mental Health,138,4.75,76.4,4.6,27,Adult,119.67
+2025-02-28,Nutrition,158,3.63,27.8,6.7,33,Family,424.28
+2025-03-31,Youth Development,175,2.75,66.5,13.1,29,Adult,308.56
+2025-04-30,Youth Development,151,3.27,88.2,21.6,21,Senior,183.85
+2025-05-31,Fitness,164,2.67,85.4,1.0,43,Senior,488.12
+2025-06-30,Youth Development,150,2.92,76.0,52.6,22,Adult,454.53
+2025-07-31,Youth Development,155,3.58,78.6,42.4,28,Veteran,119.47
+2025-08-31,Senior Wellness,176,3.66,40.7,5.9,26,Family,128.24
+2025-09-30,Youth Development,179,3.22,87.3,48.0,28,Veteran,340.55
+2025-10-31,Senior Wellness,151,4.04,54.0,2.5,32,Adult,417.56
+2025-11-30,Mental Health,141,2.55,74.6,60.9,29,Family,337.35
+2025-12-31,Youth Development,171,3.96,86.7,22.2,27,Youth,254.09
+2026-01-31,Fitness,147,3.95,78.3,3.5,33,Family,389.96
+2026-02-28,Senior Wellness,146,3.02,77.6,36.4,39,Adult,106.01
+2026-03-31,Senior Wellness,155,2.86,59.0,2.7,18,Youth,394.19
+2026-04-30,Senior Wellness,149,3.37,53.4,36.3,36,Adult,80.35
+2026-05-31,Senior Wellness,159,4.84,90.1,0.0,34,Senior,117.07
+2026-06-30,Fitness,127,3.92,65.9,125.4,38,Youth,294.88
+2026-07-31,Fitness,137,2.91,74.0,7.6,30,Senior,54.61
+2026-08-31,Fitness,159,3.09,41.2,7.4,29,Family,349.52
+2026-09-30,Senior Wellness,136,4.58,58.2,2.9,48,Veteran,413.56
+2026-10-31,Fitness,152,4.96,61.6,5.6,29,Senior,481.1
+2026-11-30,Mental Health,167,4.38,53.2,21.8,31,Veteran,301.33
+2026-12-31,Youth Development,149,4.98,59.2,14.2,30,Youth,136.43
+2027-01-31,Nutrition,161,2.68,91.9,4.1,26,Youth,475.89
+2027-02-28,Youth Development,149,3.14,81.0,6.8,27,Family,243.11
+2027-03-31,Youth Development,152,4.3,71.5,2.3,33,Family,298.01
+2027-04-30,Nutrition,155,4.77,41.8,27.0,39,Veteran,484.56
+2027-05-31,Youth Development,134,3.84,79.7,67.3,24,Youth,65.92
+2027-06-30,Mental Health,152,2.95,77.1,6.6,25,Veteran,335.07
+2027-07-31,Senior Wellness,170,2.75,59.5,4.0,32,Family,492.21
+2027-08-31,Senior Wellness,146,3.73,55.0,2.1,35,Adult,71.69
+2027-09-30,Senior Wellness,149,4.5,86.2,8.2,39,Family,138.92
+2027-10-31,Fitness,147,4.66,78.7,3.2,21,Veteran,114.47
+2027-11-30,Youth Development,145,4.55,81.9,27.5,46,Veteran,242.11
+2027-12-31,Senior Wellness,156,4.97,60.1,10.4,48,Senior,308.56
+2028-01-31,Fitness,130,2.72,96.8,2.0,29,Adult,122.34
+2028-02-29,Fitness,166,3.23,69.9,7.5,30,Youth,308.07
+2028-03-31,Fitness,149,4.09,54.7,11.9,34,Senior,489.34
+2028-04-30,Youth Development,149,3.56,47.5,7.5,27,Youth,364.85
+2028-05-31,Nutrition,143,4.27,73.2,10.8,27,Adult,345.78
+2028-06-30,Senior Wellness,152,2.9,79.6,12.4,23,Adult,210.26
+2028-07-31,Fitness,158,4.79,100.0,19.6,30,Veteran,157.68
+2028-08-31,Mental Health,147,3.18,74.6,2.3,33,Adult,381.41
+2028-09-30,Fitness,160,4.71,70.8,18.8,23,Youth,450.32
+2028-10-31,Nutrition,160,3.13,48.6,13.1,39,Youth,399.96
+2028-11-30,Senior Wellness,159,4.19,68.0,2.5,32,Senior,185.86
+2028-12-31,Senior Wellness,131,3.29,75.0,6.2,27,Youth,310.76
+2029-01-31,Youth Development,154,4.1,86.2,10.7,40,Senior,280.98
+2029-02-28,Youth Development,149,2.57,74.0,22.2,35,Family,479.41
+2029-03-31,Senior Wellness,151,3.89,54.0,23.8,28,Adult,215.29
+2029-04-30,Youth Development,139,4.75,56.3,29.6,37,Senior,233.41
+2029-05-31,Youth Development,162,3.69,80.4,2.0,44,Veteran,50.9
+2029-06-30,Nutrition,137,3.13,68.6,0.4,20,Senior,302.97
+2029-07-31,Mental Health,165,3.19,65.9,0.7,26,Senior,130.46
+2029-08-31,Fitness,140,2.94,97.7,28.2,29,Family,124.8
+2029-09-30,Senior Wellness,132,3.83,84.1,6.9,21,Veteran,480.26
+2029-10-31,Nutrition,153,3.44,78.3,0.8,22,Youth,276.94
+2029-11-30,Senior Wellness,168,4.71,75.4,10.7,29,Veteran,489.71
+2029-12-31,Senior Wellness,157,4.14,100.0,8.7,30,Senior,279.07
+2030-01-31,Nutrition,174,2.86,68.2,14.3,33,Adult,257.2
+2030-02-28,Mental Health,150,3.95,54.9,76.3,22,Youth,51.01
+2030-03-31,Senior Wellness,158,5.0,94.5,26.9,19,Family,204.89
+2030-04-30,Fitness,148,4.59,91.2,3.4,25,Adult,348.11
+2030-05-31,Nutrition,145,4.73,93.3,25.9,28,Senior,85.77
+2030-06-30,Fitness,130,2.97,57.9,10.1,42,Senior,179.59
+2030-07-31,Fitness,129,4.1,65.0,24.8,29,Adult,440.44
+2030-08-31,Youth Development,153,2.7,61.9,4.1,26,Youth,90.59
+2030-09-30,Fitness,149,2.72,39.8,7.1,26,Youth,484.9
+2030-10-31,Senior Wellness,159,4.77,65.1,12.9,31,Senior,241.54
+2030-11-30,Nutrition,144,3.2,47.0,63.7,28,Family,160.02
+2030-12-31,Mental Health,126,4.92,65.9,3.2,25,Senior,174.71
+2031-01-31,Fitness,158,3.77,70.8,40.5,30,Veteran,259.84
+2031-02-28,Fitness,134,3.78,74.3,4.6,26,Family,477.13
+2031-03-31,Nutrition,158,4.28,49.0,54.7,28,Adult,206.42
+2031-04-30,Mental Health,148,4.78,79.4,10.3,30,Adult,120.24
+2031-05-31,Youth Development,157,4.03,72.3,60.2,27,Family,123.26
+2031-06-30,Mental Health,171,3.31,87.3,57.8,30,Veteran,209.93
+2031-07-31,Nutrition,132,3.05,74.2,4.3,30,Veteran,405.02
+2031-08-31,Nutrition,143,3.64,73.6,6.4,27,Senior,58.0
+2031-09-30,Youth Development,154,3.0,59.8,21.9,27,Family,394.82
+2031-10-31,Nutrition,145,3.88,75.2,2.1,36,Adult,109.34
+2031-11-30,Fitness,156,4.93,52.9,9.3,27,Veteran,434.86
+2031-12-31,Nutrition,154,4.35,65.0,47.1,40,Veteran,69.49
+2032-01-31,Mental Health,115,2.84,67.9,15.7,35,Veteran,472.0
+2032-02-29,Mental Health,163,2.85,71.7,6.0,26,Veteran,179.0
+2032-03-31,Senior Wellness,158,3.85,81.6,52.2,27,Youth,125.01
+2032-04-30,Nutrition,147,3.58,69.7,11.7,35,Adult,248.03
+2032-05-31,Nutrition,138,2.95,67.1,0.8,32,Family,340.54
+2032-06-30,Senior Wellness,163,4.96,79.7,13.5,35,Adult,490.97
+2032-07-31,Fitness,158,2.97,48.4,7.6,36,Veteran,463.17
+2032-08-31,Fitness,164,4.43,81.6,23.8,29,Veteran,422.44
+2032-09-30,Senior Wellness,169,3.9,49.9,9.1,18,Veteran,479.64
+2032-10-31,Nutrition,164,3.7,71.9,14.6,27,Youth,432.7
+2032-11-30,Senior Wellness,159,4.25,46.6,22.5,32,Senior,142.14
+2032-12-31,Senior Wellness,152,4.49,82.3,18.8,40,Veteran,126.56
+2033-01-31,Mental Health,141,4.95,92.8,7.7,22,Veteran,409.69
+2033-02-28,Nutrition,162,3.83,81.4,3.7,27,Veteran,141.23
+2033-03-31,Fitness,125,2.71,72.2,85.9,35,Senior,296.47
+2033-04-30,Nutrition,151,3.74,82.2,8.6,32,Family,354.17
+2033-05-31,Fitness,171,3.47,73.2,7.1,28,Youth,131.23
+2033-06-30,Mental Health,164,2.95,62.2,32.3,41,Adult,187.83
+2033-07-31,Senior Wellness,148,3.97,62.4,15.0,31,Senior,443.67
+2033-08-31,Youth Development,163,3.72,62.8,26.4,41,Veteran,489.23
+2033-09-30,Fitness,162,4.44,76.2,45.5,37,Family,416.96
+2033-10-31,Fitness,173,4.34,83.8,10.2,41,Youth,295.29
+2033-11-30,Fitness,153,4.91,93.2,5.5,30,Family,402.34
+2033-12-31,Senior Wellness,150,4.71,65.7,21.3,28,Senior,444.31
+2034-01-31,Senior Wellness,165,4.85,61.9,20.3,36,Adult,100.87
+2034-02-28,Nutrition,163,4.6,68.1,20.5,35,Senior,494.0
+2034-03-31,Senior Wellness,136,3.32,69.4,24.8,41,Youth,187.94
+2034-04-30,Senior Wellness,119,3.74,64.2,32.4,32,Veteran,133.3
+2034-05-31,Senior Wellness,152,3.2,80.1,1.1,31,Youth,333.08
+2034-06-30,Youth Development,159,4.34,72.6,5.6,35,Youth,332.4
+2034-07-31,Fitness,168,4.96,76.4,32.4,42,Veteran,372.49
+2034-08-31,Senior Wellness,164,3.31,70.1,7.8,24,Adult,497.89
+2034-09-30,Fitness,145,3.5,60.2,35.7,29,Family,323.67
+2034-10-31,Youth Development,149,3.55,58.2,6.5,25,Senior,305.96
+2034-11-30,Mental Health,173,4.18,71.3,21.9,34,Youth,399.92
+2034-12-31,Fitness,133,4.6,80.5,6.1,23,Senior,182.77
+2035-01-31,Nutrition,139,3.31,51.1,12.5,29,Senior,400.76
+2035-02-28,Senior Wellness,154,2.76,81.5,12.3,25,Adult,219.82
+2035-03-31,Youth Development,162,4.86,69.7,26.1,30,Veteran,383.58
+2035-04-30,Fitness,148,4.94,72.1,30.5,28,Adult,344.65
+2035-05-31,Mental Health,163,4.37,48.7,22.0,38,Youth,269.6
+2035-06-30,Fitness,140,3.66,57.9,14.8,35,Senior,259.75
+2035-07-31,Nutrition,134,2.77,91.0,3.6,31,Adult,223.4
+2035-08-31,Youth Development,162,4.87,75.7,3.1,33,Senior,84.99
+2035-09-30,Youth Development,171,4.32,70.6,12.9,30,Family,443.17
+2035-10-31,Youth Development,147,2.82,91.2,4.9,24,Senior,474.81
+2035-11-30,Youth Development,147,3.14,68.2,0.5,31,Adult,156.68
+2035-12-31,Mental Health,154,4.0,60.6,38.4,23,Family,471.64
+2036-01-31,Fitness,171,4.53,83.6,25.4,37,Senior,312.59
+2036-02-29,Fitness,158,4.19,86.4,5.1,31,Family,301.49
+2036-03-31,Nutrition,173,4.31,65.3,22.2,25,Veteran,121.39
+2036-04-30,Youth Development,181,3.1,74.7,9.7,26,Senior,101.96
+2036-05-31,Senior Wellness,157,4.63,81.4,8.4,22,Adult,374.97
+2036-06-30,Mental Health,142,4.34,88.1,20.5,33,Family,430.29
+2036-07-31,Mental Health,145,2.57,82.1,0.5,25,Senior,71.16
+2036-08-31,Fitness,123,4.53,68.9,0.9,33,Family,347.12
+2036-09-30,Nutrition,145,3.8,60.1,16.5,30,Youth,312.91
+2036-10-31,Youth Development,168,4.56,85.1,26.6,31,Veteran,418.56
+2036-11-30,Fitness,157,4.81,50.1,17.7,32,Adult,171.48
+2036-12-31,Mental Health,152,2.81,72.7,51.7,33,Veteran,140.75
+2037-01-31,Youth Development,149,2.9,60.4,11.6,25,Senior,84.64
+2037-02-28,Fitness,159,3.38,54.5,29.8,28,Family,292.94
+2037-03-31,Youth Development,144,3.43,81.4,22.6,30,Youth,355.85
+2037-04-30,Senior Wellness,148,4.05,69.5,37.7,29,Adult,55.07
+2037-05-31,Nutrition,143,3.58,83.9,28.6,30,Family,215.53
+2037-06-30,Senior Wellness,142,4.74,67.3,21.9,26,Adult,187.44
+2037-07-31,Youth Development,143,3.26,51.4,29.2,29,Youth,249.8
+2037-08-31,Youth Development,128,4.3,76.4,37.7,41,Adult,191.58
+2037-09-30,Youth Development,145,4.57,73.9,6.8,27,Senior,143.3
+2037-10-31,Fitness,158,2.52,55.0,26.7,34,Adult,203.97
+2037-11-30,Youth Development,153,4.84,89.4,69.8,35,Family,221.35
+2037-12-31,Fitness,145,2.65,70.5,1.9,33,Adult,394.0
+2038-01-31,Fitness,144,3.99,71.9,17.2,19,Veteran,497.48
+2038-02-28,Fitness,149,4.86,63.2,24.6,28,Adult,155.22
+2038-03-31,Mental Health,169,4.55,67.1,12.7,40,Adult,250.42
+2038-04-30,Youth Development,154,4.3,69.1,1.3,34,Family,412.63
+2038-05-31,Nutrition,151,4.7,91.4,7.1,36,Senior,385.46
+2038-06-30,Youth Development,158,3.65,95.3,99.4,36,Senior,285.56
+2038-07-31,Mental Health,138,2.83,83.3,30.4,37,Senior,157.43
+2038-08-31,Mental Health,144,2.89,51.0,5.0,39,Family,401.6
+2038-09-30,Nutrition,154,4.2,68.2,11.9,31,Senior,146.48
+2038-10-31,Youth Development,169,3.92,78.3,50.5,22,Adult,104.35
+2038-11-30,Youth Development,150,4.66,81.8,15.0,41,Adult,305.95
+2038-12-31,Youth Development,159,3.06,60.3,2.7,36,Adult,264.48
+2039-01-31,Senior Wellness,133,4.44,42.3,12.4,30,Senior,305.89
+2039-02-28,Mental Health,159,4.52,85.9,31.4,30,Adult,177.41
+2039-03-31,Mental Health,144,3.98,66.5,8.7,31,Family,471.68
+2039-04-30,Youth Development,134,4.54,45.6,1.5,31,Adult,193.58
+2039-05-31,Mental Health,144,4.13,44.5,6.0,23,Senior,454.09
+2039-06-30,Youth Development,153,2.83,59.7,28.0,30,Veteran,211.01
+2039-07-31,Nutrition,140,3.26,60.5,76.9,28,Adult,203.05
+2039-08-31,Mental Health,157,3.58,68.0,17.6,31,Senior,74.25
+2039-09-30,Fitness,131,3.43,78.9,9.2,33,Youth,171.52
+2039-10-31,Nutrition,148,4.74,74.7,1.9,26,Adult,357.87
+2039-11-30,Youth Development,156,3.65,63.9,31.4,40,Youth,408.8
+2039-12-31,Fitness,161,3.96,45.3,6.8,23,Family,465.23
+2040-01-31,Nutrition,147,2.83,32.1,4.6,31,Adult,381.62
+2040-02-29,Fitness,139,4.02,82.4,80.8,33,Family,306.69
+2040-03-31,Nutrition,142,3.18,62.6,3.6,24,Veteran,470.79
+2040-04-30,Nutrition,151,3.58,61.6,8.5,32,Youth,495.4
+2040-05-31,Senior Wellness,153,2.78,68.8,43.3,34,Family,77.11
+2040-06-30,Youth Development,150,3.8,79.8,20.9,26,Veteran,188.29
+2040-07-31,Fitness,142,4.71,59.4,15.7,28,Family,160.25
+2040-08-31,Mental Health,136,4.44,100.0,34.5,22,Senior,128.81
+2040-09-30,Fitness,142,3.95,82.8,28.7,30,Youth,238.2
+2040-10-31,Youth Development,148,4.39,45.1,3.0,32,Family,163.43
+2040-11-30,Nutrition,146,3.82,77.8,34.8,35,Family,70.59
+2040-12-31,Nutrition,172,3.75,97.7,4.0,38,Youth,52.39
+2041-01-31,Youth Development,158,4.6,85.2,24.7,31,Youth,468.87
+2041-02-28,Youth Development,167,3.03,68.0,13.6,29,Family,161.58
+2041-03-31,Fitness,167,2.55,51.0,0.1,43,Youth,114.79
+2041-04-30,Youth Development,130,3.4,47.6,30.5,25,Veteran,398.32
+2041-05-31,Senior Wellness,149,3.49,69.4,7.6,24,Adult,298.23
+2041-06-30,Fitness,153,4.88,60.7,3.2,38,Senior,386.07
+2041-07-31,Fitness,173,2.66,54.0,24.8,31,Adult,225.68
+2041-08-31,Senior Wellness,149,4.19,36.7,35.4,33,Adult,129.88
+2041-09-30,Nutrition,157,2.54,59.4,0.7,36,Youth,186.9
+2041-10-31,Youth Development,130,4.28,55.2,29.1,25,Adult,239.34
+2041-11-30,Mental Health,131,3.16,70.8,27.7,18,Family,207.9
+2041-12-31,Senior Wellness,133,4.82,68.7,4.1,29,Senior,480.21
+2042-01-31,Mental Health,157,3.51,49.0,2.3,32,Youth,93.72
+2042-02-28,Mental Health,147,2.91,66.8,38.3,33,Veteran,467.67
+2042-03-31,Mental Health,140,4.13,91.3,21.3,27,Youth,436.87
+2042-04-30,Fitness,176,4.1,80.6,18.9,30,Senior,391.54
+2042-05-31,Senior Wellness,145,4.68,75.8,0.8,33,Senior,441.68
+2042-06-30,Senior Wellness,146,5.0,99.9,18.5,24,Youth,204.74
+2042-07-31,Nutrition,120,4.92,89.5,22.8,27,Youth,453.62
+2042-08-31,Senior Wellness,166,2.95,47.7,34.9,42,Senior,398.34
+2042-09-30,Youth Development,142,3.62,91.6,20.8,33,Youth,298.48
+2042-10-31,Senior Wellness,156,4.03,79.6,10.4,39,Family,316.25
+2042-11-30,Fitness,160,2.59,66.4,25.8,23,Senior,210.3
+2042-12-31,Fitness,143,3.16,46.7,6.3,29,Veteran,368.09
+2043-01-31,Senior Wellness,157,2.51,44.0,14.7,28,Youth,156.03
+2043-02-28,Youth Development,145,2.85,69.3,8.0,19,Family,396.74
+2043-03-31,Senior Wellness,161,3.42,88.8,2.4,36,Senior,299.5
+2043-04-30,Fitness,164,4.28,25.9,31.6,31,Veteran,320.78
+2043-05-31,Nutrition,121,4.87,82.1,4.5,30,Veteran,305.83
+2043-06-30,Fitness,136,3.41,36.4,23.7,21,Adult,440.55
+2043-07-31,Mental Health,157,2.98,72.6,0.1,31,Youth,195.1
+2043-08-31,Youth Development,148,4.84,87.7,45.1,29,Veteran,78.51
+2043-09-30,Nutrition,123,4.16,81.8,7.8,27,Adult,301.16
+2043-10-31,Youth Development,146,3.62,58.5,9.8,24,Veteran,385.79
+2043-11-30,Nutrition,168,4.68,52.9,21.9,30,Youth,125.83
+2043-12-31,Senior Wellness,132,3.94,51.5,7.5,30,Youth,486.37
+2044-01-31,Youth Development,148,2.81,34.9,16.5,26,Senior,55.57
+2044-02-29,Youth Development,153,4.96,73.0,15.3,42,Youth,115.66
+2044-03-31,Fitness,129,4.51,63.1,23.8,41,Youth,349.12
+2044-04-30,Fitness,137,3.73,58.5,19.4,29,Family,59.28
+2044-05-31,Nutrition,150,4.7,54.1,20.2,32,Veteran,354.11
+2044-06-30,Senior Wellness,153,3.16,89.6,12.4,28,Adult,404.76
+2044-07-31,Senior Wellness,168,3.28,76.4,4.1,25,Senior,174.5
+2044-08-31,Fitness,148,4.69,72.6,50.4,32,Youth,423.98
+2044-09-30,Nutrition,141,2.55,69.1,8.5,36,Family,475.26
+2044-10-31,Senior Wellness,165,3.09,55.3,6.5,38,Senior,262.59
+2044-11-30,Youth Development,165,3.55,80.8,24.0,23,Family,233.71
+2044-12-31,Fitness,148,3.31,69.9,3.3,25,Youth,436.49
+2045-01-31,Nutrition,145,4.66,100.0,67.3,27,Youth,380.13
+2045-02-28,Youth Development,142,2.66,68.9,19.3,23,Family,175.02
+2045-03-31,Senior Wellness,157,3.57,66.0,4.8,40,Youth,482.35
+2045-04-30,Fitness,166,4.32,75.8,57.1,38,Adult,289.02
+2045-05-31,Youth Development,142,2.95,59.9,60.2,31,Family,109.33
+2045-06-30,Senior Wellness,128,4.55,100.0,9.4,42,Adult,169.79
+2045-07-31,Senior Wellness,133,4.17,92.4,11.4,25,Youth,371.05
+2045-08-31,Nutrition,139,3.17,45.2,3.3,34,Youth,180.62
+2045-09-30,Senior Wellness,152,2.98,78.5,86.6,31,Adult,454.4
+2045-10-31,Mental Health,158,4.95,63.2,4.5,23,Veteran,224.4
+2045-11-30,Mental Health,151,3.29,73.8,9.7,28,Adult,113.93
+2045-12-31,Mental Health,155,3.14,53.3,10.8,32,Youth,201.16
+2046-01-31,Youth Development,132,3.57,61.6,4.1,27,Adult,365.61
+2046-02-28,Senior Wellness,158,2.64,61.3,5.3,28,Veteran,411.74
+2046-03-31,Fitness,143,4.18,68.9,22.2,23,Veteran,214.35
+2046-04-30,Youth Development,158,4.9,67.4,28.3,39,Veteran,366.96
+2046-05-31,Fitness,146,2.77,63.2,1.5,26,Youth,255.35
+2046-06-30,Senior Wellness,149,4.27,47.8,24.9,28,Family,406.88
+2046-07-31,Senior Wellness,130,2.8,59.6,13.5,29,Family,93.85
+2046-08-31,Nutrition,151,3.74,53.2,9.6,24,Youth,452.56
+2046-09-30,Senior Wellness,140,4.38,56.3,14.2,24,Family,156.92
+2046-10-31,Mental Health,172,2.63,57.5,3.3,41,Senior,121.3
+2046-11-30,Nutrition,148,3.85,74.0,3.7,26,Youth,377.84
+2046-12-31,Fitness,145,4.0,72.4,24.7,30,Family,278.39
+2047-01-31,Senior Wellness,154,2.93,59.9,30.4,27,Youth,351.98
+2047-02-28,Youth Development,137,3.38,64.3,22.8,29,Family,324.5
+2047-03-31,Senior Wellness,154,4.36,74.3,57.3,33,Veteran,327.14
+2047-04-30,Nutrition,145,3.36,41.1,36.3,38,Family,157.49
+2047-05-31,Fitness,148,3.86,78.6,10.3,26,Adult,52.19
+2047-06-30,Nutrition,140,4.09,65.5,6.7,31,Veteran,324.93
+2047-07-31,Mental Health,162,4.23,58.3,42.9,24,Family,227.35
+2047-08-31,Senior Wellness,139,4.71,61.0,8.8,34,Senior,417.52
+2047-09-30,Youth Development,128,2.65,44.9,18.3,38,Senior,419.62
+2047-10-31,Youth Development,162,3.16,69.2,14.4,27,Adult,423.41
+2047-11-30,Fitness,160,3.87,100.0,17.1,31,Adult,351.33
+2047-12-31,Senior Wellness,141,3.72,74.6,10.9,39,Family,150.84
+2048-01-31,Youth Development,142,4.18,68.8,71.1,29,Youth,350.87
+2048-02-29,Nutrition,134,3.9,67.9,40.6,34,Family,365.49
+2048-03-31,Youth Development,170,4.84,78.3,47.3,28,Adult,248.79
+2048-04-30,Senior Wellness,157,2.83,68.2,21.2,28,Veteran,331.65
+2048-05-31,Youth Development,162,3.4,58.4,3.5,25,Veteran,99.29
+2048-06-30,Senior Wellness,149,4.54,93.5,26.3,33,Youth,95.52
+2048-07-31,Fitness,150,3.7,8.9,18.8,35,Adult,498.44
+2048-08-31,Senior Wellness,139,3.28,43.4,0.3,23,Adult,55.43
+2048-09-30,Mental Health,129,2.58,98.7,23.4,36,Family,476.58
+2048-10-31,Fitness,153,4.74,67.1,23.3,21,Youth,221.36
+2048-11-30,Youth Development,149,2.94,81.7,38.1,28,Veteran,424.31
+2048-12-31,Mental Health,129,3.96,66.0,52.4,28,Veteran,498.11
+2049-01-31,Nutrition,156,2.85,55.4,5.9,30,Veteran,203.05
+2049-02-28,Mental Health,150,2.63,49.2,28.6,36,Veteran,325.94
+2049-03-31,Youth Development,151,4.97,62.5,8.5,30,Family,233.44
+2049-04-30,Youth Development,160,4.88,79.6,11.1,29,Youth,346.85
+2049-05-31,Fitness,153,2.7,61.9,69.5,29,Veteran,151.14
+2049-06-30,Mental Health,181,4.37,96.6,0.9,36,Youth,139.63
+2049-07-31,Nutrition,158,3.49,96.8,22.0,29,Family,311.86
+2049-08-31,Nutrition,167,4.9,58.4,8.4,35,Veteran,315.2
+2049-09-30,Mental Health,157,3.35,84.5,7.1,26,Senior,309.5
+2049-10-31,Senior Wellness,176,3.46,77.3,22.7,32,Youth,252.78
+2049-11-30,Youth Development,155,2.73,51.2,31.2,35,Family,182.66
+2049-12-31,Senior Wellness,155,4.35,79.3,0.7,24,Senior,58.43
+2050-01-31,Fitness,161,3.13,44.8,17.0,33,Youth,228.62
+2050-02-28,Nutrition,154,3.27,79.9,13.2,21,Veteran,235.35
+2050-03-31,Youth Development,149,2.73,94.7,44.4,28,Adult,126.27
+2050-04-30,Senior Wellness,131,2.53,70.9,7.9,18,Family,366.46
+2050-05-31,Youth Development,117,4.08,73.3,2.3,30,Family,151.52
+2050-06-30,Youth Development,165,4.76,54.7,28.3,47,Senior,95.03
+2050-07-31,Fitness,144,3.19,72.6,23.7,24,Adult,282.5
+2050-08-31,Youth Development,137,4.49,56.7,13.7,26,Adult,228.8
+2050-09-30,Fitness,152,3.16,57.5,20.0,33,Adult,146.98
+2050-10-31,Nutrition,150,3.13,69.5,46.4,33,Family,482.71
+2050-11-30,Nutrition,157,4.21,79.3,0.2,32,Family,475.12
+2050-12-31,Nutrition,142,3.88,48.5,11.7,37,Veteran,132.75
+2051-01-31,Fitness,151,3.82,71.1,33.1,34,Senior,475.2
+2051-02-28,Senior Wellness,165,2.76,93.4,1.2,31,Senior,473.01
+2051-03-31,Senior Wellness,121,2.72,78.7,41.4,37,Veteran,55.42
+2051-04-30,Youth Development,164,2.72,73.4,27.3,26,Youth,193.08
+2051-05-31,Nutrition,148,4.81,100.0,11.9,23,Family,347.67
+2051-06-30,Nutrition,156,2.55,70.2,28.5,29,Youth,104.13
+2051-07-31,Nutrition,149,2.62,97.1,86.5,26,Family,280.81
+2051-08-31,Mental Health,157,4.63,64.9,69.7,27,Family,492.0
+2051-09-30,Senior Wellness,133,3.47,70.7,22.8,32,Veteran,310.31
+2051-10-31,Mental Health,150,4.05,69.0,3.9,30,Veteran,456.58
+2051-11-30,Senior Wellness,161,3.79,76.0,15.4,36,Veteran,161.5
+2051-12-31,Youth Development,128,3.7,78.1,53.6,42,Adult,382.27
+2052-01-31,Nutrition,172,2.77,47.9,9.2,39,Family,238.43
+2052-02-29,Nutrition,186,4.76,80.5,8.2,33,Adult,176.12
+2052-03-31,Youth Development,137,3.96,69.7,12.1,30,Senior,289.43
+2052-04-30,Senior Wellness,142,3.9,68.5,4.7,36,Adult,468.0
+2052-05-31,Fitness,138,2.72,62.8,8.0,35,Senior,468.47
+2052-06-30,Mental Health,147,4.51,52.8,57.7,36,Adult,258.06
+2052-07-31,Youth Development,152,3.8,60.2,11.2,40,Senior,128.93
+2052-08-31,Fitness,156,3.91,44.4,45.5,32,Adult,377.99
+2052-09-30,Senior Wellness,162,4.28,75.0,9.0,29,Adult,278.88
+2052-10-31,Fitness,157,3.97,69.8,29.5,30,Youth,178.34
+2052-11-30,Senior Wellness,155,4.93,58.8,22.9,27,Veteran,181.44
+2052-12-31,Nutrition,145,2.9,92.5,23.4,27,Family,491.81
+2053-01-31,Senior Wellness,125,3.13,53.7,8.3,30,Family,145.42
+2053-02-28,Nutrition,159,4.46,76.9,6.2,21,Senior,86.33
+2053-03-31,Nutrition,170,4.41,60.3,17.6,18,Senior,167.95
+2053-04-30,Fitness,142,3.85,70.7,3.0,27,Veteran,289.72
+2053-05-31,Fitness,141,3.06,68.2,21.7,24,Family,474.43
+2053-06-30,Nutrition,136,2.86,78.0,24.0,34,Adult,111.72
+2053-07-31,Fitness,136,3.87,69.8,1.8,38,Family,491.2
+2053-08-31,Youth Development,164,3.6,78.5,16.0,31,Senior,432.36
+2053-09-30,Mental Health,162,4.65,55.9,50.7,34,Senior,477.57
+2053-10-31,Fitness,150,3.38,62.3,23.2,22,Veteran,282.37
+2053-11-30,Mental Health,124,2.56,69.8,1.7,31,Family,262.91
+2053-12-31,Youth Development,153,3.26,65.4,2.7,29,Adult,384.04
+2054-01-31,Mental Health,158,3.08,74.7,2.0,23,Family,151.55
+2054-02-28,Fitness,160,3.12,93.2,7.1,18,Youth,414.93
+2054-03-31,Mental Health,142,3.44,59.0,21.4,29,Family,301.42
+2054-04-30,Mental Health,140,4.52,98.6,3.8,33,Youth,276.16
+2054-05-31,Nutrition,148,3.74,74.8,11.3,30,Veteran,175.3
+2054-06-30,Senior Wellness,154,4.45,73.6,16.6,23,Family,115.83
+2054-07-31,Nutrition,143,4.37,75.5,45.3,36,Veteran,212.63
+2054-08-31,Mental Health,151,3.22,88.9,17.8,29,Veteran,142.43
+2054-09-30,Youth Development,135,3.84,74.3,19.8,33,Senior,133.66
+2054-10-31,Nutrition,145,2.72,71.0,42.7,30,Veteran,58.76
+2054-11-30,Mental Health,134,4.5,85.6,40.9,37,Veteran,50.96
+2054-12-31,Mental Health,161,4.01,54.0,0.3,20,Adult,184.05
+2055-01-31,Fitness,148,4.08,58.7,42.9,25,Adult,218.44
+2055-02-28,Fitness,165,3.03,86.4,0.8,30,Family,381.68
+2055-03-31,Fitness,147,4.71,74.3,88.1,35,Adult,57.82
+2055-04-30,Mental Health,144,3.74,85.7,5.6,23,Senior,205.11
+2055-05-31,Mental Health,148,2.78,59.5,20.6,25,Family,396.72
+2055-06-30,Youth Development,156,4.99,71.8,9.2,26,Youth,168.02
+2055-07-31,Youth Development,152,2.98,84.2,2.9,35,Veteran,299.39
+2055-08-31,Mental Health,152,3.56,58.4,17.3,31,Youth,109.35
+2055-09-30,Fitness,162,2.91,84.7,6.4,20,Youth,426.6
+2055-10-31,Senior Wellness,132,3.92,83.4,37.4,28,Youth,236.64
+2055-11-30,Senior Wellness,139,3.23,70.2,24.9,37,Family,490.01
+2055-12-31,Senior Wellness,145,4.3,36.1,8.5,30,Veteran,201.82
+2056-01-31,Senior Wellness,138,3.81,75.9,6.5,36,Youth,296.04
+2056-02-29,Nutrition,150,4.65,68.9,4.4,28,Senior,235.64
+2056-03-31,Youth Development,169,3.57,80.8,6.1,35,Senior,484.52
+2056-04-30,Mental Health,163,4.57,76.0,2.4,30,Senior,457.98
+2056-05-31,Mental Health,158,4.9,68.1,23.2,27,Youth,138.17
+2056-06-30,Mental Health,146,2.62,45.9,38.8,22,Adult,71.51
+2056-07-31,Senior Wellness,147,2.59,95.7,3.1,40,Adult,342.57
+2056-08-31,Mental Health,169,4.56,63.8,2.6,25,Family,262.52
+2056-09-30,Nutrition,142,2.76,74.2,29.7,31,Youth,196.48
+2056-10-31,Youth Development,132,4.45,51.9,4.0,25,Youth,349.06
+2056-11-30,Nutrition,153,4.9,58.7,13.3,30,Senior,256.6
+2056-12-31,Nutrition,168,3.9,52.2,35.3,29,Family,467.84
+2057-01-31,Nutrition,153,2.89,81.6,1.7,26,Senior,275.74
+2057-02-28,Nutrition,182,3.15,100.0,9.0,28,Senior,112.05
+2057-03-31,Youth Development,133,4.71,79.0,20.3,33,Veteran,188.92
+2057-04-30,Mental Health,134,4.36,62.6,102.7,36,Youth,123.13
+2057-05-31,Mental Health,168,4.26,81.1,41.5,31,Veteran,355.48
+2057-06-30,Senior Wellness,140,3.08,85.2,36.8,36,Adult,436.0
+2057-07-31,Youth Development,135,3.93,53.1,2.4,27,Family,454.43
+2057-08-31,Youth Development,149,4.96,61.2,8.4,25,Family,318.54
+2057-09-30,Fitness,152,4.17,82.2,42.4,32,Veteran,396.56
+2057-10-31,Nutrition,157,4.11,68.7,17.5,26,Family,427.18
+2057-11-30,Mental Health,132,3.88,89.6,16.1,20,Veteran,102.2
+2057-12-31,Youth Development,160,3.52,63.1,162.8,31,Senior,453.02
+2058-01-31,Senior Wellness,128,4.1,52.7,9.3,28,Youth,158.22
+2058-02-28,Fitness,149,4.2,50.3,36.4,36,Adult,348.47
+2058-03-31,Nutrition,163,4.6,61.2,18.5,40,Senior,414.05
+2058-04-30,Fitness,164,4.61,68.2,3.6,35,Veteran,63.7
+2058-05-31,Nutrition,138,3.34,71.5,5.5,37,Veteran,194.39
+2058-06-30,Youth Development,152,2.6,100.0,9.3,33,Adult,284.11
+2058-07-31,Senior Wellness,157,3.43,56.4,23.6,28,Adult,210.59
+2058-08-31,Youth Development,158,4.57,60.6,11.6,24,Youth,445.78
+2058-09-30,Youth Development,135,3.92,63.7,1.7,32,Adult,362.19
+2058-10-31,Nutrition,163,4.7,48.6,9.3,22,Family,449.05
+2058-11-30,Nutrition,147,3.4,69.0,85.8,33,Family,82.65
+2058-12-31,Senior Wellness,162,3.27,73.5,24.8,28,Youth,62.4
+2059-01-31,Fitness,164,4.56,89.4,26.5,34,Youth,466.23
+2059-02-28,Senior Wellness,150,3.12,63.6,5.8,37,Veteran,209.95
+2059-03-31,Youth Development,162,3.39,71.5,4.3,26,Senior,323.43
+2059-04-30,Youth Development,136,4.8,57.2,11.8,34,Youth,471.88
+2059-05-31,Nutrition,153,2.66,65.8,1.6,27,Adult,384.97
+2059-06-30,Youth Development,149,3.27,82.7,3.6,40,Adult,168.29
+2059-07-31,Senior Wellness,129,3.83,38.5,4.9,30,Senior,126.53
+2059-08-31,Senior Wellness,154,3.72,63.4,14.5,30,Senior,69.63
+2059-09-30,Senior Wellness,171,3.6,44.1,41.5,32,Senior,142.89
+2059-10-31,Youth Development,138,4.76,84.3,4.5,21,Family,408.89
+2059-11-30,Senior Wellness,136,2.98,72.2,5.5,24,Adult,154.49
+2059-12-31,Fitness,153,3.22,65.0,15.1,23,Family,383.95
+2060-01-31,Senior Wellness,131,3.5,79.5,15.5,31,Adult,352.72
+2060-02-29,Nutrition,156,3.52,73.2,15.0,37,Youth,292.95
+2060-03-31,Mental Health,161,3.51,78.7,0.5,36,Adult,355.34
+2060-04-30,Senior Wellness,142,3.27,95.5,67.0,28,Youth,490.88
+2060-05-31,Mental Health,119,3.22,78.3,70.5,28,Family,245.13
+2060-06-30,Nutrition,131,2.77,72.1,30.1,36,Adult,446.97
+2060-07-31,Mental Health,180,2.89,47.1,8.0,32,Youth,268.26
+2060-08-31,Fitness,138,3.11,80.0,13.5,35,Youth,381.99
+2060-09-30,Mental Health,144,4.31,83.7,6.8,27,Adult,339.03
+2060-10-31,Nutrition,134,4.28,81.0,36.6,40,Family,193.09
+2060-11-30,Fitness,159,3.23,64.7,6.5,41,Adult,163.97
+2060-12-31,Mental Health,148,3.43,67.0,28.6,25,Family,98.63
+2061-01-31,Mental Health,156,4.66,83.1,2.7,22,Family,95.69
+2061-02-28,Youth Development,149,2.66,76.9,6.3,28,Adult,359.56
+2061-03-31,Nutrition,157,4.91,57.4,55.0,37,Youth,206.22
+2061-04-30,Mental Health,130,4.67,68.7,55.4,26,Family,85.35
+2061-05-31,Senior Wellness,159,4.63,74.1,10.5,31,Veteran,64.22
+2061-06-30,Senior Wellness,158,2.65,56.2,18.1,26,Veteran,213.94
+2061-07-31,Senior Wellness,146,4.65,71.4,3.9,31,Family,461.19
+2061-08-31,Senior Wellness,171,2.65,64.9,4.2,28,Family,443.87
+2061-09-30,Senior Wellness,146,3.34,51.5,7.1,38,Senior,119.26
+2061-10-31,Senior Wellness,168,3.41,79.0,11.7,28,Senior,339.12
+2061-11-30,Senior Wellness,142,3.25,69.6,15.7,27,Family,91.23
+2061-12-31,Senior Wellness,164,3.0,60.1,44.8,24,Youth,215.83
+2062-01-31,Mental Health,149,3.08,70.0,46.8,30,Senior,303.88
+2062-02-28,Mental Health,133,3.41,60.6,7.1,32,Senior,144.3
+2062-03-31,Youth Development,140,4.76,63.9,36.9,28,Youth,141.15
+2062-04-30,Youth Development,144,3.77,68.8,36.6,22,Adult,474.36
+2062-05-31,Mental Health,158,4.39,75.8,9.5,23,Youth,488.11
+2062-06-30,Youth Development,131,3.49,52.3,35.7,27,Youth,272.01
+2062-07-31,Youth Development,119,3.0,88.7,4.7,17,Family,224.49
+2062-08-31,Mental Health,148,2.62,84.6,20.7,39,Veteran,242.22
+2062-09-30,Youth Development,144,4.09,54.1,56.4,24,Adult,467.18
+2062-10-31,Senior Wellness,153,3.84,89.4,24.9,27,Family,322.11
+2062-11-30,Fitness,147,4.98,91.3,1.0,32,Family,276.87
+2062-12-31,Nutrition,160,2.92,62.8,17.7,29,Family,70.56
+2063-01-31,Youth Development,150,2.96,88.9,6.4,24,Senior,425.9
+2063-02-28,Mental Health,160,4.89,50.1,1.3,26,Family,435.28
+2063-03-31,Nutrition,163,3.04,64.4,82.3,31,Family,393.27
+2063-04-30,Mental Health,146,4.22,68.1,22.8,32,Veteran,283.01
+2063-05-31,Mental Health,132,3.87,40.3,1.2,34,Youth,477.77
+2063-06-30,Senior Wellness,163,4.26,75.4,14.1,23,Adult,438.42
+2063-07-31,Youth Development,153,4.76,50.9,4.6,34,Family,163.19
+2063-08-31,Senior Wellness,138,4.9,82.8,20.5,30,Senior,364.0
+2063-09-30,Nutrition,144,3.67,75.2,2.3,28,Veteran,270.06
+2063-10-31,Youth Development,162,2.64,71.5,24.2,32,Youth,393.28
+2063-11-30,Nutrition,155,4.87,68.0,10.8,30,Senior,491.59
+2063-12-31,Youth Development,140,3.71,72.9,16.4,29,Senior,129.62
+2064-01-31,Youth Development,153,4.73,79.9,20.5,32,Youth,266.9
+2064-02-29,Senior Wellness,143,3.64,57.8,17.0,44,Youth,240.65
+2064-03-31,Nutrition,143,4.33,67.2,10.4,40,Family,291.16
+2064-04-30,Fitness,146,3.45,29.4,4.9,32,Adult,415.36
+2064-05-31,Mental Health,149,2.9,72.2,3.5,31,Youth,238.15
+2064-06-30,Fitness,155,4.21,80.8,38.8,31,Family,261.55
+2064-07-31,Senior Wellness,150,3.1,74.5,2.7,37,Senior,407.78
+2064-08-31,Youth Development,155,4.96,49.4,18.9,31,Youth,489.23
+2064-09-30,Youth Development,143,3.64,69.6,4.8,31,Veteran,172.51
+2064-10-31,Nutrition,169,4.26,40.9,28.2,35,Family,350.01
+2064-11-30,Fitness,141,2.94,82.3,24.0,30,Adult,171.62
+2064-12-31,Fitness,152,2.83,62.2,12.1,28,Senior,207.18
+2065-01-31,Mental Health,155,2.81,89.0,4.1,37,Adult,163.55
+2065-02-28,Fitness,159,2.8,100.0,15.6,29,Senior,276.45
+2065-03-31,Youth Development,153,4.94,63.1,9.1,28,Adult,182.0
+2065-04-30,Nutrition,149,4.15,54.2,34.1,33,Adult,226.69
+2065-05-31,Senior Wellness,151,4.76,69.9,20.4,26,Senior,252.18
+2065-06-30,Youth Development,152,2.76,65.4,9.8,23,Adult,113.47
+2065-07-31,Youth Development,164,4.02,93.2,4.9,28,Veteran,97.38
+2065-08-31,Youth Development,134,4.07,77.9,134.3,32,Veteran,50.23

@@ -1,0 +1,10 @@
+$schema,style,rsc,tsx,tailwind,iconLibrary,rtl,aliases,registries
+https://ui.shadcn.com/schema.json,new-york,False,True,src/styles.css,lucide,False,,
+https://ui.shadcn.com/schema.json,new-york,False,True,slate,lucide,False,,
+https://ui.shadcn.com/schema.json,new-york,False,True,True,lucide,False,,
+https://ui.shadcn.com/schema.json,new-york,False,True,,lucide,False,,
+https://ui.shadcn.com/schema.json,new-york,False,True,,lucide,False,@/components,
+https://ui.shadcn.com/schema.json,new-york,False,True,,lucide,False,@/lib/utils,
+https://ui.shadcn.com/schema.json,new-york,False,True,,lucide,False,@/components/ui,
+https://ui.shadcn.com/schema.json,new-york,False,True,,lucide,False,@/lib,
+https://ui.shadcn.com/schema.json,new-york,False,True,,lucide,False,@/hooks,

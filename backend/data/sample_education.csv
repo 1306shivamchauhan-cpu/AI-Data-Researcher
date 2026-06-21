@@ -1,0 +1,501 @@
+semester,institution,program,enrollment,graduation_rate,employment_rate,student_satisfaction,avg_test_score,resource_allocation
+2023-09-30,East Institute,STEM,501,91.3,64.9,4.02,88.6,62511.69
+2024-03-31,North Academy,Vocational,508,67.5,67.5,4.75,67.0,57138.9
+2024-09-30,Central High,Adult Education,458,95.8,75.5,4.81,75.3,25464.66
+2025-03-31,North Academy,Humanities,510,65.1,58.5,4.11,65.8,88940.1
+2025-09-30,North Academy,Arts,500,75.6,72.3,4.32,69.9,60458.25
+2026-03-31,North Academy,Adult Education,476,69.5,69.6,3.96,80.6,99256.61
+2026-09-30,East Institute,Adult Education,487,94.5,93.9,2.76,93.9,14000.13
+2027-03-31,North Academy,STEM,501,71.1,90.0,4.39,80.0,68061.33
+2027-09-30,Central High,Vocational,498,73.3,56.4,3.13,76.7,61813.43
+2028-03-31,North Academy,STEM,473,81.1,55.4,4.9,67.5,18373.24
+2028-09-30,East Institute,Vocational,465,92.0,88.3,4.09,54.4,32518.28
+2029-03-31,Central High,Vocational,510,92.5,59.1,4.79,81.7,68915.87
+2029-09-30,North Academy,Arts,513,87.3,59.0,3.34,68.0,55464.88
+2030-03-31,North Academy,Arts,508,90.1,85.3,3.41,65.2,75106.91
+2030-09-30,West University,Adult Education,467,95.1,85.4,2.64,78.8,17728.17
+2031-03-31,Central High,Vocational,480,60.3,58.0,2.77,67.5,32712.53
+2031-09-30,East Institute,Humanities,521,91.9,69.6,2.41,95.6,64093.79
+2032-03-31,South College,Adult Education,482,76.2,57.9,4.21,75.9,81797.27
+2032-09-30,East Institute,Arts,491,62.3,54.9,4.89,85.4,12482.27
+2033-03-31,North Academy,Humanities,532,78.3,67.1,2.26,91.5,30969.32
+2033-09-30,Central High,STEM,495,80.2,76.1,4.05,79.9,33920.27
+2034-03-31,West University,STEM,481,78.9,71.8,3.26,86.2,84202.39
+2034-09-30,East Institute,Arts,483,88.7,69.1,4.79,81.8,72525.32
+2035-03-31,Central High,Arts,498,96.5,56.2,2.83,82.2,79387.71
+2035-09-30,South College,Arts,508,64.7,79.2,3.89,77.3,23569.48
+2036-03-31,North Academy,Humanities,517,82.9,68.9,2.03,76.4,73801.96
+2036-09-30,East Institute,Vocational,498,82.9,88.5,3.57,54.5,56739.33
+2037-03-31,West University,STEM,465,80.3,62.3,3.63,64.4,95061.33
+2037-09-30,East Institute,Humanities,506,72.5,52.4,3.48,61.2,23353.19
+2038-03-31,North Academy,Arts,482,85.3,53.5,4.33,66.9,97367.83
+2038-09-30,East Institute,STEM,470,78.1,58.3,4.38,77.6,95799.74
+2039-03-31,North Academy,Vocational,517,62.1,62.8,3.41,50.5,86919.14
+2039-09-30,West University,STEM,472,71.5,86.3,4.97,69.2,74314.27
+2040-03-31,East Institute,Arts,488,77.8,79.3,2.83,56.2,94548.81
+2040-09-30,Central High,Humanities,441,84.7,58.1,3.34,76.1,94642.23
+2041-03-31,Central High,Arts,498,91.3,69.5,3.07,54.2,15808.52
+2041-09-30,Central High,Arts,456,61.7,54.6,2.3,80.3,61944.59
+2042-03-31,North Academy,Arts,480,97.9,82.6,3.2,70.2,84051.89
+2042-09-30,Central High,Vocational,520,84.7,94.7,3.53,65.0,14321.27
+2043-03-31,South College,STEM,495,78.1,55.2,4.29,59.9,40467.02
+2043-09-30,North Academy,STEM,514,77.1,83.7,2.12,76.3,94992.3
+2044-03-31,North Academy,STEM,517,78.1,91.2,4.46,83.5,36880.49
+2044-09-30,West University,STEM,456,77.8,55.8,2.81,85.8,71140.95
+2045-03-31,South College,Humanities,495,67.9,92.6,4.93,86.0,26236.76
+2045-09-30,North Academy,Vocational,479,96.6,80.5,3.65,74.2,67976.37
+2046-03-31,South College,Adult Education,564,78.3,67.3,2.63,67.8,76023.3
+2046-09-30,West University,Vocational,462,89.2,85.1,4.71,64.9,41037.09
+2047-03-31,North Academy,Vocational,530,64.9,87.0,2.11,93.9,39083.64
+2047-09-30,East Institute,Vocational,468,88.0,91.7,2.23,64.4,51971.79
+2048-03-31,West University,Humanities,508,84.6,53.7,2.58,85.4,24090.86
+2048-09-30,South College,Humanities,479,89.3,73.2,2.82,73.4,82568.15
+2049-03-31,South College,Humanities,523,69.5,73.2,4.5,73.1,15484.15
+2049-09-30,South College,Humanities,524,90.2,84.3,4.75,72.3,57573.64
+2050-03-31,Central High,Arts,537,95.3,89.9,4.5,66.2,38884.92
+2050-09-30,Central High,Vocational,516,67.7,60.9,4.91,86.1,76896.9
+2051-03-31,East Institute,Humanities,515,81.5,65.4,4.33,86.3,41938.3
+2051-09-30,East Institute,Arts,500,86.6,79.5,3.1,79.7,16179.49
+2052-03-31,South College,STEM,448,96.5,57.9,3.06,79.7,39737.7
+2052-09-30,West University,Adult Education,528,86.7,53.3,3.09,100.0,35586.29
+2053-03-31,North Academy,Adult Education,513,64.7,93.5,3.37,73.0,22684.36
+2053-09-30,West University,Humanities,497,84.0,93.5,3.7,77.3,12111.33
+2054-03-31,North Academy,Vocational,484,85.5,73.5,2.49,68.1,58512.28
+2054-09-30,East Institute,Humanities,504,89.5,52.1,3.18,84.2,59131.79
+2055-03-31,East Institute,Arts,513,88.1,65.1,3.28,77.5,53717.29
+2055-09-30,South College,Humanities,508,82.9,78.0,3.21,85.2,20902.68
+2056-03-31,West University,Humanities,537,95.0,68.3,4.3,63.3,94563.13
+2056-09-30,North Academy,Arts,493,84.0,86.3,2.48,72.2,44763.95
+2057-03-31,East Institute,Vocational,516,94.0,57.8,2.13,72.2,69547.24
+2057-09-30,Central High,STEM,522,80.8,51.2,4.55,86.0,98743.38
+2058-03-31,South College,Humanities,501,79.2,88.2,3.28,76.9,20272.9
+2058-09-30,Central High,Humanities,508,80.7,74.9,3.84,64.8,40542.45
+2059-03-31,West University,Vocational,512,79.6,77.4,3.72,76.0,35236.82
+2059-09-30,Central High,Vocational,483,65.2,52.4,2.88,66.4,56819.79
+2060-03-31,North Academy,Arts,510,91.2,71.3,2.13,69.8,30552.52
+2060-09-30,South College,Adult Education,504,69.7,57.1,4.42,82.5,97371.52
+2061-03-31,Central High,STEM,526,62.0,53.3,2.62,72.4,40718.81
+2061-09-30,North Academy,STEM,477,71.7,75.8,4.81,51.3,74041.83
+2062-03-31,East Institute,Humanities,492,93.1,81.6,4.5,89.6,98147.63
+2062-09-30,South College,Humanities,485,65.7,57.7,4.6,74.0,43368.6
+2063-03-31,West University,Arts,488,89.3,57.4,4.4,66.1,97435.24
+2063-09-30,West University,Adult Education,492,72.1,67.8,3.2,68.4,41209.28
+2064-03-31,Central High,Adult Education,481,95.5,84.6,3.36,68.6,41389.58
+2064-09-30,East Institute,Arts,508,85.0,94.2,3.04,72.9,40503.38
+2065-03-31,East Institute,Arts,507,82.4,67.7,2.84,56.2,52456.12
+2065-09-30,South College,STEM,475,95.9,78.5,4.81,74.0,60444.82
+2066-03-31,East Institute,STEM,483,74.5,65.7,2.22,64.1,59444.73
+2066-09-30,West University,Humanities,504,97.7,67.1,4.21,90.3,36560.13
+2067-03-31,North Academy,Adult Education,508,78.4,58.9,2.84,66.1,84989.86
+2067-09-30,West University,Adult Education,495,93.6,52.8,2.38,58.7,69412.11
+2068-03-31,South College,Vocational,473,96.9,84.3,4.34,83.7,86067.61
+2068-09-30,Central High,STEM,482,92.7,94.8,2.16,84.3,98733.77
+2069-03-31,South College,Adult Education,526,85.3,71.6,4.97,67.3,31510.03
+2069-09-30,West University,Arts,471,62.1,64.1,3.31,70.9,69050.3
+2070-03-31,West University,Humanities,493,86.6,52.4,2.26,72.1,88755.82
+2070-09-30,West University,STEM,521,60.7,52.6,2.85,62.9,33163.42
+2071-03-31,South College,Arts,540,63.3,59.6,2.62,68.5,64372.23
+2071-09-30,North Academy,Adult Education,548,82.2,73.7,4.14,73.9,55343.06
+2072-03-31,Central High,Humanities,496,90.0,89.0,2.37,79.6,84016.6
+2072-09-30,Central High,STEM,482,83.8,58.0,2.97,79.3,88675.81
+2073-03-31,East Institute,Vocational,547,94.7,72.9,2.35,82.4,94024.3
+2073-09-30,Central High,STEM,478,80.3,74.5,2.82,77.6,20559.96
+2074-03-31,East Institute,Humanities,497,95.8,94.5,3.03,82.9,25440.64
+2074-09-30,North Academy,Humanities,523,63.2,76.3,2.57,77.3,32191.34
+2075-03-31,North Academy,Adult Education,543,63.7,90.9,3.31,82.7,14500.15
+2075-09-30,North Academy,STEM,467,75.8,80.5,4.66,69.7,88818.5
+2076-03-31,South College,Arts,514,64.6,61.2,2.22,87.5,84944.5
+2076-09-30,Central High,Arts,477,81.8,84.6,4.34,77.2,12589.65
+2077-03-31,North Academy,Humanities,466,82.2,86.7,4.1,84.0,15013.12
+2077-09-30,North Academy,Vocational,519,76.4,72.5,4.16,74.4,24020.05
+2078-03-31,Central High,Humanities,492,92.6,58.9,2.86,95.0,61027.93
+2078-09-30,Central High,Humanities,453,79.9,74.6,3.49,66.1,81550.84
+2079-03-31,East Institute,Vocational,500,76.4,65.1,2.45,78.2,22032.69
+2079-09-30,South College,Adult Education,477,69.7,62.0,4.26,94.1,50416.65
+2080-03-31,North Academy,Humanities,480,97.6,61.9,2.13,78.4,95834.29
+2080-09-30,East Institute,Vocational,496,73.7,58.5,3.84,100.0,36589.85
+2081-03-31,South College,Humanities,487,71.0,74.8,3.35,68.1,25963.81
+2081-09-30,South College,Vocational,492,85.3,74.7,3.0,57.7,56526.94
+2082-03-31,South College,Humanities,529,82.3,88.4,4.74,72.5,80402.53
+2082-09-30,East Institute,Humanities,486,71.2,90.6,3.96,75.4,80788.77
+2083-03-31,South College,Adult Education,528,66.4,92.6,3.0,81.8,49940.46
+2083-09-30,East Institute,Arts,504,82.6,63.4,2.08,92.9,26359.34
+2084-03-31,South College,Vocational,502,60.2,58.1,2.55,89.0,49462.27
+2084-09-30,West University,STEM,532,76.8,57.1,2.74,85.3,67555.9
+2085-03-31,North Academy,Humanities,478,77.6,89.4,2.82,81.0,93140.21
+2085-09-30,Central High,Adult Education,487,60.6,71.1,2.13,70.0,15726.99
+2086-03-31,West University,Humanities,497,66.2,88.9,4.06,75.6,15496.15
+2086-09-30,Central High,Adult Education,469,83.7,73.9,4.25,42.9,55700.53
+2087-03-31,Central High,Vocational,501,86.9,64.9,2.35,87.7,47202.16
+2087-09-30,North Academy,Humanities,507,97.7,72.6,2.43,94.1,69688.39
+2088-03-31,North Academy,Adult Education,522,60.3,55.0,4.43,85.7,56035.36
+2088-09-30,Central High,Vocational,522,89.3,87.7,3.59,68.3,42589.23
+2089-03-31,North Academy,Adult Education,503,61.4,51.9,3.66,66.0,76775.64
+2089-09-30,North Academy,Arts,520,82.8,54.1,3.38,69.7,38275.66
+2090-03-31,South College,STEM,503,66.2,58.7,3.2,62.2,74326.64
+2090-09-30,Central High,Arts,513,71.1,53.4,3.82,70.4,45865.47
+2091-03-31,Central High,Arts,565,62.2,80.4,4.85,76.4,25919.34
+2091-09-30,Central High,Vocational,513,80.7,90.1,2.86,71.1,86975.04
+2092-03-31,West University,Vocational,492,85.6,55.4,2.88,75.0,58270.51
+2092-09-30,West University,Adult Education,486,61.5,75.7,4.03,78.7,26543.85
+2093-03-31,Central High,Humanities,488,78.4,82.7,4.61,57.9,46420.84
+2093-09-30,North Academy,Arts,472,91.9,80.5,2.93,85.3,24260.16
+2094-03-31,Central High,Humanities,539,77.3,53.9,4.79,78.2,77556.61
+2094-09-30,West University,STEM,540,83.9,84.2,4.64,74.6,99564.7
+2095-03-31,South College,Adult Education,498,61.4,75.7,2.07,81.2,45217.77
+2095-09-30,Central High,Adult Education,504,90.1,55.2,2.61,69.4,16984.18
+2096-03-31,South College,STEM,556,77.5,64.8,2.28,81.8,83957.31
+2096-09-30,East Institute,STEM,501,73.7,86.1,3.02,72.2,45241.71
+2097-03-31,South College,Adult Education,481,64.7,52.8,4.98,61.9,59432.46
+2097-09-30,East Institute,STEM,464,90.9,70.0,3.07,61.1,87660.82
+2098-03-31,North Academy,Humanities,509,83.9,51.0,2.05,76.5,98922.02
+2098-09-30,East Institute,Adult Education,487,76.2,55.2,3.49,76.1,19258.13
+2099-03-31,East Institute,Arts,477,80.0,84.7,2.36,94.7,35403.76
+2099-09-30,South College,Vocational,484,82.2,94.5,3.9,94.7,63518.54
+2100-03-31,Central High,Adult Education,492,77.8,91.9,3.46,78.0,53057.16
+2100-09-30,South College,Arts,494,95.4,85.7,4.33,70.7,20226.31
+2101-03-31,South College,Humanities,507,80.5,79.0,2.13,57.7,68652.39
+2101-09-30,North Academy,Humanities,521,94.1,64.7,2.23,67.4,19576.36
+2102-03-31,West University,Vocational,482,61.0,70.5,4.35,88.1,67259.28
+2102-09-30,North Academy,Humanities,496,80.5,86.7,4.2,87.7,49313.64
+2103-03-31,South College,Arts,508,83.4,93.3,4.59,71.9,18339.19
+2103-09-30,South College,Humanities,505,71.3,63.1,4.8,71.5,82520.96
+2104-03-31,North Academy,Humanities,517,84.3,69.1,2.94,89.0,74927.5
+2104-09-30,East Institute,Humanities,475,77.0,56.5,4.4,71.5,23968.08
+2105-03-31,West University,Adult Education,532,83.8,88.2,4.62,67.1,96640.78
+2105-09-30,East Institute,STEM,513,79.2,61.2,4.34,84.5,99714.84
+2106-03-31,West University,Humanities,475,63.9,74.7,4.26,82.7,95228.79
+2106-09-30,South College,Vocational,496,94.2,71.4,2.7,77.1,42798.33
+2107-03-31,Central High,Humanities,496,80.8,81.8,2.87,75.1,18404.98
+2107-09-30,Central High,Adult Education,517,75.8,85.4,4.41,63.4,86150.45
+2108-03-31,West University,STEM,471,73.3,76.5,3.53,89.4,47875.07
+2108-09-30,West University,Humanities,463,60.9,94.6,4.49,42.9,29988.93
+2109-03-31,West University,STEM,506,92.4,51.5,3.47,53.7,63619.67
+2109-09-30,West University,STEM,523,84.7,72.8,2.48,52.7,10631.34
+2110-03-31,Central High,STEM,471,83.3,60.9,2.05,90.2,46060.34
+2110-09-30,West University,STEM,472,73.8,70.8,4.0,93.6,39857.02
+2111-03-31,West University,Humanities,534,72.3,61.8,3.09,71.7,18852.96
+2111-09-30,South College,Humanities,531,68.1,87.8,3.03,65.4,85881.43
+2112-03-31,South College,Adult Education,494,80.1,56.2,3.31,77.0,41770.47
+2112-09-30,West University,Adult Education,505,90.2,78.6,2.41,82.8,62687.62
+2113-03-31,North Academy,Humanities,477,62.4,76.6,4.39,68.8,48421.97
+2113-09-30,South College,Humanities,542,82.7,85.4,4.65,71.8,71820.78
+2114-03-31,East Institute,Adult Education,522,61.2,92.1,4.68,68.2,47867.17
+2114-09-30,North Academy,STEM,501,69.2,94.0,3.59,87.5,89318.48
+2115-03-31,Central High,Humanities,493,80.4,94.8,3.15,83.7,34264.58
+2115-09-30,East Institute,Adult Education,513,88.3,50.8,4.46,71.7,86121.37
+2116-03-31,South College,Arts,486,60.1,70.1,4.87,84.6,33037.65
+2116-09-30,East Institute,Humanities,525,81.1,80.6,3.9,83.2,31405.79
+2117-03-31,North Academy,Vocational,450,69.6,60.0,3.32,70.4,61704.97
+2117-09-30,South College,Vocational,490,76.5,80.1,2.68,66.2,90137.39
+2118-03-31,East Institute,Humanities,501,69.9,56.5,2.84,83.5,71522.1
+2118-09-30,Central High,Vocational,478,93.8,55.7,4.77,73.0,76328.99
+2119-03-31,North Academy,Vocational,525,94.2,91.5,3.01,68.8,39725.24
+2119-09-30,South College,Adult Education,518,86.7,62.9,4.73,81.2,68245.91
+2120-03-31,East Institute,Arts,492,66.1,62.9,4.95,85.2,15175.96
+2120-09-30,West University,Adult Education,503,68.6,94.5,2.04,81.8,60736.52
+2121-03-31,East Institute,STEM,520,84.1,52.5,4.33,92.2,51354.35
+2121-09-30,Central High,Vocational,513,74.9,59.0,2.49,77.9,53582.94
+2122-03-31,East Institute,STEM,486,95.0,75.2,4.88,70.8,31186.14
+2122-09-30,Central High,Arts,470,79.5,67.5,3.08,95.8,11569.5
+2123-03-31,East Institute,STEM,522,95.7,71.9,3.02,78.8,93764.58
+2123-09-30,East Institute,Humanities,524,89.7,88.3,2.45,69.4,18857.75
+2124-03-31,West University,Vocational,514,65.3,84.2,2.98,65.6,12834.99
+2124-09-30,West University,Arts,559,95.8,82.8,2.69,68.1,55830.13
+2125-03-31,Central High,Arts,516,77.8,51.7,2.84,73.4,83831.29
+2125-09-30,East Institute,Vocational,500,64.9,91.0,4.58,59.4,57970.32
+2126-03-31,West University,Humanities,524,81.2,80.8,3.69,78.2,41394.41
+2126-09-30,West University,Adult Education,500,64.4,66.8,2.02,88.3,34446.96
+2127-03-31,East Institute,Humanities,528,91.5,87.3,4.2,56.7,89554.57
+2127-09-30,West University,Arts,500,74.3,61.7,2.22,72.5,39329.34
+2128-03-31,East Institute,Humanities,491,79.1,69.7,3.23,59.5,15121.31
+2128-09-30,Central High,Vocational,507,69.2,91.5,4.38,81.9,28846.54
+2129-03-31,Central High,Humanities,509,69.4,67.3,2.95,45.4,63735.91
+2129-09-30,South College,Adult Education,475,65.2,58.4,4.72,63.7,36220.72
+2130-03-31,West University,STEM,494,87.7,66.3,4.02,77.1,87705.51
+2130-09-30,Central High,Arts,515,69.4,77.3,2.83,67.4,21144.64
+2131-03-31,Central High,Arts,507,67.8,90.9,2.64,63.6,33115.26
+2131-09-30,South College,Arts,494,94.4,85.7,4.39,81.5,43846.56
+2132-03-31,Central High,Vocational,511,70.2,92.2,3.54,63.7,12951.17
+2132-09-30,North Academy,Adult Education,499,94.6,68.9,4.29,66.9,54017.21
+2133-03-31,West University,Adult Education,491,96.1,55.6,3.34,90.4,81661.61
+2133-09-30,East Institute,Arts,477,81.3,66.5,4.14,69.0,57651.72
+2134-03-31,North Academy,STEM,477,78.0,60.9,2.79,69.6,99595.74
+2134-09-30,West University,Vocational,518,85.2,55.0,2.64,67.0,10594.89
+2135-03-31,North Academy,Humanities,516,63.2,77.6,2.91,76.2,43250.62
+2135-09-30,West University,Arts,519,69.7,78.2,4.09,66.3,30307.62
+2136-03-31,West University,Humanities,540,98.0,63.8,2.73,61.8,32875.76
+2136-09-30,North Academy,Vocational,556,76.1,70.5,3.05,79.7,97533.27
+2137-03-31,East Institute,Humanities,511,81.4,60.7,4.66,89.9,67758.59
+2137-09-30,East Institute,Adult Education,491,74.5,86.6,2.15,68.9,51565.8
+2138-03-31,North Academy,Adult Education,532,77.4,58.1,4.36,80.1,91492.35
+2138-09-30,East Institute,Arts,512,66.8,53.4,3.49,84.2,91730.11
+2139-03-31,South College,Humanities,490,97.3,76.0,2.79,72.9,84718.03
+2139-09-30,North Academy,Arts,517,68.2,86.7,2.8,94.6,60375.3
+2140-03-31,West University,Humanities,472,92.9,71.4,2.35,89.1,61837.76
+2140-09-30,South College,Vocational,512,63.5,69.8,4.56,82.2,69150.86
+2141-03-31,West University,STEM,507,89.7,89.2,3.44,57.1,35364.21
+2141-09-30,North Academy,Vocational,485,90.6,92.8,3.68,87.8,43321.43
+2142-03-31,West University,Arts,522,63.8,87.8,3.79,85.8,58589.32
+2142-09-30,South College,Arts,499,74.5,59.5,3.26,84.9,45014.41
+2143-03-31,South College,STEM,456,69.7,69.9,4.76,61.7,21722.1
+2143-09-30,South College,Adult Education,506,97.5,90.3,2.71,53.7,50089.18
+2144-03-31,East Institute,Arts,484,81.0,59.6,2.09,77.7,98860.16
+2144-09-30,East Institute,STEM,500,95.7,51.8,3.9,62.0,93664.6
+2145-03-31,West University,STEM,519,92.2,68.6,4.85,80.2,66456.72
+2145-09-30,West University,STEM,498,85.0,63.6,4.24,90.4,30770.33
+2146-03-31,East Institute,Adult Education,522,95.3,54.0,3.18,64.5,26226.83
+2146-09-30,Central High,Humanities,471,61.8,64.8,2.63,79.1,80937.0
+2147-03-31,South College,Vocational,488,83.4,75.3,2.47,78.6,56279.34
+2147-09-30,East Institute,Adult Education,490,87.1,85.4,4.2,81.5,13815.09
+2148-03-31,North Academy,STEM,550,63.5,51.1,4.45,70.1,78095.21
+2148-09-30,Central High,STEM,495,61.3,58.8,3.72,82.8,80413.79
+2149-03-31,North Academy,Adult Education,488,90.8,57.5,2.63,73.8,68362.0
+2149-09-30,Central High,Arts,543,60.4,60.7,4.13,94.2,23633.33
+2150-03-31,West University,Humanities,500,93.8,60.9,2.63,95.3,10277.79
+2150-09-30,West University,Arts,494,94.4,54.0,4.43,74.4,29745.01
+2151-03-31,South College,STEM,495,69.1,81.4,4.4,91.4,17292.74
+2151-09-30,South College,Arts,481,92.6,68.8,3.05,71.0,24242.89
+2152-03-31,North Academy,Adult Education,555,64.9,93.0,2.98,68.9,71144.81
+2152-09-30,Central High,Arts,506,70.3,92.5,2.76,79.2,84569.05
+2153-03-31,East Institute,Humanities,496,71.8,68.5,2.39,96.7,68689.17
+2153-09-30,North Academy,Vocational,536,91.3,68.6,2.2,62.1,54395.9
+2154-03-31,North Academy,STEM,470,95.6,81.8,4.91,81.1,48196.34
+2154-09-30,East Institute,Humanities,506,69.5,60.9,4.44,90.3,32071.97
+2155-03-31,South College,Humanities,531,79.2,62.5,3.31,85.4,61998.54
+2155-09-30,Central High,Adult Education,509,69.3,89.5,2.71,100.0,93128.83
+2156-03-31,South College,Vocational,494,76.2,74.9,3.15,61.9,34146.45
+2156-09-30,South College,Adult Education,488,62.8,55.3,4.2,84.8,38697.88
+2157-03-31,West University,Arts,496,85.3,60.7,3.77,80.6,10411.69
+2157-09-30,East Institute,Humanities,488,92.3,62.2,3.45,84.7,55370.22
+2158-03-31,East Institute,Humanities,484,70.3,71.6,4.41,68.3,19119.44
+2158-09-30,North Academy,STEM,530,92.1,72.9,3.33,73.3,52666.46
+2159-03-31,West University,Humanities,501,60.8,83.9,4.07,76.2,64394.5
+2159-09-30,East Institute,Arts,492,68.7,53.8,2.08,74.9,53129.47
+2160-03-31,West University,STEM,540,83.9,84.0,2.96,63.1,19542.41
+2160-09-30,North Academy,Adult Education,504,74.0,71.0,4.29,63.9,31788.87
+2161-03-31,Central High,Arts,548,67.1,75.7,4.57,100.0,23566.31
+2161-09-30,South College,Humanities,485,80.2,59.1,3.41,93.1,50002.07
+2162-03-31,South College,STEM,518,60.5,55.8,3.78,62.4,15014.8
+2162-09-30,South College,Adult Education,518,85.0,82.4,2.92,94.7,68403.67
+2163-03-31,North Academy,STEM,530,79.6,60.0,3.3,61.0,81379.87
+2163-09-30,West University,STEM,483,83.9,85.0,2.89,81.1,26132.46
+2164-03-31,Central High,Adult Education,467,61.0,72.3,3.38,72.3,24696.68
+2164-09-30,West University,STEM,502,94.0,67.7,4.48,66.9,74749.54
+2165-03-31,North Academy,Humanities,492,81.0,73.5,2.94,78.7,29993.25
+2165-09-30,West University,Humanities,502,93.5,59.0,4.31,92.0,23231.79
+2166-03-31,West University,STEM,492,84.2,78.6,2.47,74.2,41955.46
+2166-09-30,North Academy,Humanities,525,91.5,77.8,4.72,95.5,84329.08
+2167-03-31,East Institute,Vocational,497,68.1,68.1,4.74,86.8,55897.15
+2167-09-30,South College,Vocational,488,80.7,67.6,2.95,62.8,39493.39
+2168-03-31,West University,STEM,487,79.5,51.5,2.77,62.8,41089.17
+2168-09-30,East Institute,STEM,502,71.7,61.0,3.05,62.3,30632.93
+2169-03-31,South College,Arts,495,95.9,60.4,4.65,82.0,15760.04
+2169-09-30,Central High,STEM,467,69.1,59.5,4.14,72.0,61966.62
+2170-03-31,South College,Humanities,471,89.4,54.9,2.68,91.6,56682.4
+2170-09-30,West University,Humanities,479,94.1,91.8,4.02,57.2,54942.5
+2171-03-31,North Academy,Arts,499,96.5,64.5,3.2,62.7,15102.85
+2171-09-30,Central High,Adult Education,497,64.7,72.1,2.38,53.3,60811.73
+2172-03-31,West University,Humanities,486,81.2,67.9,2.73,73.5,46669.36
+2172-09-30,East Institute,Arts,497,72.2,78.6,4.23,69.4,39308.56
+2173-03-31,Central High,Vocational,529,93.4,81.6,4.24,74.0,74759.76
+2173-09-30,North Academy,Vocational,514,83.3,82.1,4.4,76.0,67171.41
+2174-03-31,West University,Arts,502,74.3,93.9,4.37,64.4,51088.45
+2174-09-30,South College,Arts,492,75.2,67.7,2.23,79.0,88892.79
+2175-03-31,East Institute,Vocational,505,62.5,56.9,2.8,73.2,79966.17
+2175-09-30,West University,Humanities,506,65.7,53.8,4.57,78.7,11903.45
+2176-03-31,North Academy,Adult Education,528,65.6,55.4,4.69,97.1,35237.96
+2176-09-30,West University,Arts,496,73.4,53.0,4.66,64.2,41898.02
+2177-03-31,Central High,Vocational,470,97.6,52.6,3.1,68.2,53575.01
+2177-09-30,South College,Arts,543,75.3,50.7,3.67,69.3,91139.27
+2178-03-31,East Institute,Vocational,493,90.6,69.0,3.71,66.1,13539.61
+2178-09-30,Central High,Arts,536,66.8,74.5,2.72,97.6,65295.05
+2179-03-31,West University,Adult Education,493,74.7,77.8,3.13,83.5,19882.3
+2179-09-30,West University,Humanities,479,82.1,58.7,2.85,74.7,58381.92
+2180-03-31,West University,Humanities,501,69.9,54.0,4.53,95.6,93682.67
+2180-09-30,South College,Arts,463,82.8,85.3,2.31,75.6,93269.08
+2181-03-31,Central High,STEM,497,74.5,84.3,4.57,77.8,94584.24
+2181-09-30,Central High,Adult Education,504,94.2,83.9,4.29,57.0,50357.35
+2182-03-31,South College,Humanities,469,61.0,82.2,2.78,64.2,71282.56
+2182-09-30,North Academy,Adult Education,537,75.1,88.9,3.88,84.5,58821.76
+2183-03-31,North Academy,Vocational,502,74.5,55.4,2.9,68.7,19575.13
+2183-09-30,Central High,STEM,548,64.1,85.8,3.28,67.0,24602.07
+2184-03-31,East Institute,STEM,487,91.8,61.6,4.38,71.5,53550.04
+2184-09-30,Central High,Adult Education,498,75.1,94.1,4.12,100.0,18629.74
+2185-03-31,West University,Vocational,501,87.5,72.8,4.62,85.6,53016.83
+2185-09-30,West University,STEM,502,68.3,93.3,4.31,86.2,35049.95
+2186-03-31,South College,Vocational,503,63.2,81.3,4.92,74.7,56359.87
+2186-09-30,West University,Humanities,526,69.1,55.9,3.14,63.3,38176.24
+2187-03-31,East Institute,STEM,512,92.9,73.2,3.27,55.4,82650.33
+2187-09-30,Central High,STEM,447,76.4,68.9,3.55,74.3,39920.73
+2188-03-31,East Institute,STEM,475,90.9,84.8,2.89,77.5,87555.36
+2188-09-30,East Institute,Humanities,477,78.5,66.3,3.35,66.4,36384.69
+2189-03-31,West University,Vocational,467,94.9,87.1,3.37,64.6,13353.91
+2189-09-30,South College,Vocational,461,72.0,68.6,3.47,70.2,63655.18
+2190-03-31,Central High,Adult Education,461,63.1,57.5,3.11,63.6,21410.25
+2190-09-30,East Institute,Humanities,547,95.1,87.2,2.64,66.2,78920.94
+2191-03-31,South College,Vocational,502,60.4,92.7,2.31,87.9,73825.61
+2191-09-30,East Institute,Vocational,490,89.5,90.1,3.57,63.0,38769.35
+2192-03-31,East Institute,STEM,514,74.2,81.0,2.58,100.0,24195.81
+2192-09-30,West University,Humanities,503,71.9,68.3,4.24,92.1,55925.58
+2193-03-31,Central High,Arts,469,65.1,88.2,4.07,67.6,97693.41
+2193-09-30,East Institute,STEM,568,91.3,83.1,2.27,58.9,43242.35
+2194-03-31,East Institute,Humanities,493,72.6,76.4,2.03,80.5,74815.15
+2194-09-30,West University,Arts,500,88.0,65.9,2.24,59.0,22880.55
+2195-03-31,South College,Vocational,486,69.6,79.8,2.95,83.8,18222.76
+2195-09-30,Central High,Vocational,499,97.6,87.4,4.8,75.4,89815.31
+2196-03-31,Central High,STEM,488,75.1,54.6,4.49,62.4,60415.09
+2196-09-30,West University,Vocational,525,72.0,90.8,2.49,74.4,79316.74
+2197-03-31,South College,STEM,500,72.7,56.3,3.36,59.4,49208.85
+2197-09-30,Central High,STEM,506,76.4,90.2,4.25,76.0,94392.21
+2198-03-31,South College,Arts,527,69.1,71.3,4.81,56.4,66609.44
+2198-09-30,North Academy,STEM,525,77.4,89.4,3.63,47.5,21393.55
+2199-03-31,South College,Adult Education,493,86.7,88.7,2.8,75.8,44565.8
+2199-09-30,South College,Adult Education,559,80.3,63.2,3.67,77.4,52425.97
+2200-03-31,North Academy,Humanities,483,65.1,80.0,3.67,71.7,46060.35
+2200-09-30,North Academy,Arts,484,76.2,88.3,2.24,74.5,66845.88
+2201-03-31,East Institute,Humanities,505,62.4,93.3,4.48,76.8,34899.69
+2201-09-30,North Academy,STEM,495,66.0,73.1,4.48,79.4,58893.27
+2202-03-31,West University,Humanities,477,78.2,62.3,3.25,93.3,35280.27
+2202-09-30,South College,Adult Education,437,65.5,87.8,3.89,75.8,18824.73
+2203-03-31,East Institute,STEM,484,66.4,66.5,3.8,53.5,94213.15
+2203-09-30,West University,Vocational,501,70.7,80.3,2.51,75.3,84400.69
+2204-03-31,East Institute,Arts,465,91.1,62.2,2.41,75.0,88991.29
+2204-09-30,East Institute,STEM,494,64.7,78.8,4.29,63.7,71047.36
+2205-03-31,South College,Arts,466,81.1,54.5,4.53,72.6,37325.5
+2205-09-30,West University,Vocational,524,88.8,93.5,3.46,71.4,46520.33
+2206-03-31,West University,Humanities,462,64.0,85.1,2.06,91.3,75015.42
+2206-09-30,West University,STEM,502,78.4,67.1,2.07,81.7,85617.22
+2207-03-31,East Institute,STEM,500,64.4,71.8,3.08,74.3,76832.27
+2207-09-30,Central High,Humanities,481,62.6,55.0,2.27,76.7,54051.08
+2208-03-31,East Institute,STEM,509,79.8,88.9,3.67,68.3,28429.5
+2208-09-30,North Academy,Vocational,488,60.1,78.9,2.62,83.4,86317.29
+2209-03-31,North Academy,Adult Education,476,80.9,73.8,4.48,58.4,36477.41
+2209-09-30,East Institute,Vocational,463,87.2,71.8,2.68,69.0,28217.73
+2210-03-31,Central High,STEM,478,85.5,73.8,3.24,67.1,75474.57
+2210-09-30,West University,Arts,513,64.3,73.2,2.25,87.7,83390.34
+2211-03-31,Central High,Arts,499,86.2,82.3,3.06,75.6,36297.72
+2211-09-30,North Academy,Arts,477,62.8,51.7,4.76,64.3,95243.66
+2212-03-31,Central High,Adult Education,470,97.1,90.6,2.84,96.0,32563.81
+2212-09-30,West University,STEM,572,95.2,60.1,4.43,62.3,80353.9
+2213-03-31,East Institute,Arts,513,84.9,88.9,3.24,48.0,54352.4
+2213-09-30,West University,Humanities,517,86.4,71.1,4.07,65.1,24751.85
+2214-03-31,South College,Vocational,494,78.8,91.9,2.4,80.1,13381.11
+2214-09-30,North Academy,Adult Education,546,80.6,73.2,3.75,79.6,56846.47
+2215-03-31,East Institute,Adult Education,504,76.7,65.7,4.58,74.4,18570.41
+2215-09-30,Central High,Adult Education,484,74.1,51.9,4.39,100.0,27118.8
+2216-03-31,Central High,Humanities,509,77.3,63.1,3.51,85.4,71411.62
+2216-09-30,West University,Humanities,507,84.2,93.2,3.34,63.4,22152.04
+2217-03-31,West University,Adult Education,529,91.5,57.5,2.5,87.7,93988.17
+2217-09-30,East Institute,Adult Education,496,85.5,61.6,4.66,75.9,30433.7
+2218-03-31,Central High,Humanities,493,86.8,69.2,2.55,92.1,99367.38
+2218-09-30,East Institute,Humanities,481,72.0,73.5,4.56,72.7,86321.52
+2219-03-31,North Academy,STEM,489,91.4,77.3,3.38,94.3,90424.88
+2219-09-30,North Academy,Arts,534,83.1,65.2,2.3,100.0,47306.24
+2220-03-31,East Institute,STEM,517,84.6,50.6,3.21,69.0,41574.82
+2220-09-30,West University,Humanities,505,70.0,61.5,3.95,84.2,97438.13
+2221-03-31,North Academy,Humanities,506,73.1,66.3,4.82,64.6,42347.87
+2221-09-30,West University,Adult Education,490,76.3,61.9,2.53,82.1,17133.85
+2222-03-31,North Academy,Vocational,513,82.6,74.5,2.38,68.9,60518.23
+2222-09-30,South College,Adult Education,548,87.9,56.3,4.09,84.2,12137.93
+2223-03-31,West University,Vocational,465,91.7,92.8,3.46,79.5,38773.69
+2223-09-30,Central High,STEM,506,89.8,68.8,2.29,72.1,88602.83
+2224-03-31,East Institute,Adult Education,510,79.8,73.1,3.1,74.6,94810.94
+2224-09-30,East Institute,Adult Education,511,92.2,81.0,3.08,69.3,24595.27
+2225-03-31,East Institute,STEM,476,93.7,70.8,4.08,77.4,85447.25
+2225-09-30,South College,Arts,495,73.4,79.4,2.23,69.6,58725.64
+2226-03-31,West University,Vocational,543,97.1,75.6,3.7,83.4,56082.23
+2226-09-30,North Academy,Adult Education,548,95.6,57.7,3.79,66.2,73049.0
+2227-03-31,Central High,Vocational,488,82.1,75.8,3.26,71.3,72128.79
+2227-09-30,South College,Vocational,482,94.7,77.7,3.6,90.8,83771.18
+2228-03-31,West University,STEM,521,90.3,63.6,3.44,41.6,99034.62
+2228-09-30,North Academy,STEM,472,82.0,84.1,4.32,85.8,96469.5
+2229-03-31,West University,Arts,499,75.4,70.2,4.6,87.6,55180.23
+2229-09-30,North Academy,Adult Education,510,60.2,52.5,3.07,68.8,79011.95
+2230-03-31,Central High,Adult Education,501,61.2,92.3,3.69,69.5,15168.88
+2230-09-30,Central High,Arts,515,65.8,88.1,2.79,84.8,94254.35
+2231-03-31,Central High,STEM,471,78.1,86.3,3.7,71.2,55592.77
+2231-09-30,East Institute,Humanities,460,85.4,57.3,4.03,86.1,90789.71
+2232-03-31,East Institute,STEM,518,66.9,73.8,3.46,51.0,65460.69
+2232-09-30,West University,Arts,493,72.9,76.3,4.73,92.4,42342.38
+2233-03-31,South College,Arts,511,75.0,56.9,3.14,68.8,78749.55
+2233-09-30,West University,Humanities,466,81.0,74.4,3.45,64.2,62226.01
+2234-03-31,North Academy,Arts,531,67.1,88.6,2.82,74.6,83516.18
+2234-09-30,South College,Arts,505,75.5,59.9,4.39,60.8,70094.48
+2235-03-31,East Institute,Adult Education,487,67.3,77.2,2.64,74.2,84777.62
+2235-09-30,North Academy,STEM,452,60.2,87.7,3.31,64.6,98998.33
+2236-03-31,East Institute,Adult Education,464,68.6,94.1,3.69,87.7,90229.24
+2236-09-30,West University,Arts,538,60.4,76.3,2.7,63.5,31522.96
+2237-03-31,South College,Humanities,484,77.2,72.6,3.13,84.4,28148.25
+2237-09-30,West University,Humanities,516,65.4,70.6,4.45,76.2,45436.64
+2238-03-31,North Academy,Humanities,499,85.7,63.8,3.3,63.6,42081.97
+2238-09-30,North Academy,STEM,497,66.7,65.6,2.2,84.6,78133.83
+2239-03-31,Central High,Humanities,474,70.3,94.6,2.91,97.1,67286.68
+2239-09-30,Central High,Arts,540,78.4,59.6,2.94,76.0,26637.01
+2240-03-31,East Institute,Humanities,523,65.5,94.6,2.16,69.7,95194.45
+2240-09-30,Central High,Humanities,528,84.1,87.0,3.08,80.8,10632.13
+2241-03-31,North Academy,Arts,496,63.4,89.7,3.07,90.4,28068.7
+2241-09-30,North Academy,Adult Education,500,85.7,80.2,4.39,62.0,48244.38
+2242-03-31,North Academy,Vocational,523,64.0,68.4,4.91,75.0,91145.55
+2242-09-30,Central High,Humanities,549,60.9,72.0,4.42,77.9,76506.63
+2243-03-31,Central High,STEM,475,80.8,91.2,3.44,77.7,94323.41
+2243-09-30,South College,Humanities,485,66.6,78.4,3.54,61.0,62899.33
+2244-03-31,North Academy,Humanities,489,65.2,86.5,3.1,87.4,54594.45
+2244-09-30,East Institute,Adult Education,493,74.1,66.2,4.34,87.5,46492.52
+2245-03-31,Central High,Humanities,511,73.3,73.8,3.37,76.3,82124.52
+2245-09-30,North Academy,STEM,495,91.8,53.5,4.21,77.5,47623.03
+2246-03-31,South College,Arts,502,89.1,76.2,4.18,89.8,96617.01
+2246-09-30,West University,Adult Education,487,94.0,84.9,3.19,71.7,48393.66
+2247-03-31,East Institute,Humanities,487,80.7,57.8,4.31,69.1,41204.36
+2247-09-30,East Institute,STEM,463,77.0,79.7,2.85,92.0,84718.69
+2248-03-31,Central High,Adult Education,486,62.8,90.8,3.5,64.2,84777.04
+2248-09-30,North Academy,Humanities,501,77.7,79.3,2.12,76.0,13768.36
+2249-03-31,West University,Vocational,519,88.8,68.3,4.45,70.3,65781.92
+2249-09-30,South College,Humanities,494,80.1,82.0,3.29,96.5,22613.57
+2250-03-31,North Academy,Humanities,498,92.2,78.7,3.92,65.6,84597.11
+2250-09-30,North Academy,STEM,508,80.4,92.0,4.8,68.4,71369.22
+2251-03-31,North Academy,STEM,476,94.3,64.8,3.51,70.9,98153.89
+2251-09-30,West University,Adult Education,509,61.7,56.0,3.78,67.7,81697.65
+2252-03-31,North Academy,STEM,511,93.0,76.7,3.63,70.7,52228.7
+2252-09-30,East Institute,Arts,499,87.8,70.0,4.75,67.9,33284.99
+2253-03-31,South College,STEM,503,66.7,79.5,4.97,100.0,22393.71
+2253-09-30,West University,Arts,515,87.8,83.2,4.82,78.0,46674.12
+2254-03-31,East Institute,Humanities,518,85.2,50.5,4.1,63.8,68117.9
+2254-09-30,Central High,Adult Education,503,75.8,87.5,3.86,71.6,73842.7
+2255-03-31,South College,Humanities,495,95.5,66.0,2.14,70.2,57804.1
+2255-09-30,East Institute,Adult Education,527,89.1,72.9,2.97,67.7,53978.1
+2256-03-31,South College,STEM,560,78.7,59.2,3.35,78.3,65359.77
+2256-09-30,West University,Humanities,507,81.8,64.7,4.57,70.3,80836.3
+2257-03-31,Central High,Humanities,517,62.4,88.5,3.54,59.5,36833.09
+2257-09-30,Central High,STEM,504,80.1,64.1,2.39,90.4,87864.11
+2258-03-31,East Institute,Arts,503,74.0,54.4,2.19,74.4,83676.42
+2258-09-30,East Institute,STEM,536,65.8,72.2,3.3,76.7,99102.23
+2259-03-31,East Institute,Arts,508,87.1,62.5,3.76,79.1,16177.73
+2259-09-30,Central High,Vocational,497,79.2,54.2,2.47,69.9,81270.63
+2260-03-31,North Academy,STEM,497,97.9,55.3,3.28,84.3,55662.75
+2260-09-30,South College,Vocational,505,66.4,89.1,4.59,50.1,36063.67
+2261-03-31,Central High,STEM,492,64.9,71.7,3.56,82.5,55551.04
+2261-09-30,East Institute,Vocational,466,94.2,55.0,3.74,64.7,92666.78
+2262-03-31,East Institute,Adult Education,504,68.5,82.3,4.42,85.6,82183.95
+2262-09-30,West University,Adult Education,462,77.3,78.1,3.74,76.6,69202.15
+2263-03-31,East Institute,Adult Education,488,67.4,85.7,4.18,60.8,91175.13
+2263-09-30,East Institute,Arts,506,72.3,90.3,2.72,80.9,82860.25
+2264-03-31,North Academy,Adult Education,475,67.2,91.5,4.36,84.4,91220.34
+2264-09-30,East Institute,Adult Education,497,68.4,82.8,2.91,84.1,91880.9
+2265-03-31,North Academy,Arts,532,69.9,88.4,2.07,67.2,96814.45
+2265-09-30,Central High,STEM,495,84.8,55.7,3.19,97.1,81068.44
+2266-03-31,West University,STEM,448,74.3,67.6,3.79,62.1,67301.47
+2266-09-30,North Academy,Vocational,484,69.4,86.2,4.73,85.5,82816.38
+2267-03-31,East Institute,Arts,447,63.1,69.8,3.07,63.9,62905.52
+2267-09-30,North Academy,Vocational,505,63.8,57.4,3.92,80.6,28809.7
+2268-03-31,North Academy,STEM,518,97.8,66.3,4.07,62.8,90066.92
+2268-09-30,West University,Adult Education,541,88.9,62.9,2.0,69.8,87077.52
+2269-03-31,North Academy,Adult Education,510,66.5,57.9,3.27,63.5,23578.47
+2269-09-30,Central High,Arts,520,87.0,87.5,4.81,52.8,65611.03
+2270-03-31,South College,Adult Education,479,66.3,58.4,4.57,76.6,36832.57
+2270-09-30,Central High,Adult Education,477,87.8,75.6,4.01,66.0,82805.18
+2271-03-31,South College,Vocational,503,60.1,75.2,2.03,78.3,78976.03
+2271-09-30,East Institute,Arts,460,86.6,78.5,4.56,75.1,60555.36
+2272-03-31,East Institute,Adult Education,499,76.0,68.1,3.23,81.2,23528.08
+2272-09-30,East Institute,Adult Education,517,79.2,78.1,4.51,63.6,29583.64
+2273-03-31,North Academy,STEM,519,80.0,80.7,4.42,82.8,79267.57

@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    cursor: none;
+  }
+
+  a, button, [role="button"], input, select, textarea {
+    cursor: none;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Manrope", "Segoe UI", sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  h1 {
+    letter-spacing: -0.03em;
+  }
+
+
+
+  code, pre, kbd, samp {
+    font-family: "JetBrains Mono", monospace;
+  }
+
+  .font-data {
+    font-family: "JetBrains Mono", monospace;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-gray-900 border border-gray-800 rounded-xl p-6;
+  }
+
+  .card-hover {
+    @apply card transition-all duration-200 hover:border-brand-500/50 hover:shadow-lg hover:shadow-brand-500/5;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-4 py-2 rounded-lg bg-brand-600 
+           text-white font-medium text-sm transition-all duration-200 
+           hover:bg-brand-500 active:bg-brand-700 
+           focus:outline-none focus:ring-2 focus:ring-brand-500/50
+           disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-4 py-2 rounded-lg 
+           bg-gray-800 text-gray-200 font-medium text-sm 
+           border border-gray-700 transition-all duration-200 
+           hover:bg-gray-700 active:bg-gray-800
+           focus:outline-none focus:ring-2 focus:ring-gray-500/50;
+  }
+
+  .input {
+    @apply w-full px-4 py-2.5 rounded-lg bg-gray-800 border border-gray-700 
+           text-gray-100 placeholder-gray-500 text-sm
+           focus:outline-none focus:ring-2 focus:ring-brand-500/50 focus:border-brand-500/50
+           transition-all duration-200;
+  }
+
+  .glass {
+    @apply bg-gray-900/60 backdrop-blur-xl border border-gray-800/50;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-brand-400 via-purple-400 to-pink-400;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: theme('colors.gray.700') transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: theme('colors.gray.700');
+    border-radius: 3px;
+  }
+}
+
+/* ===== PIXEL REVEAL KEYFRAMES ===== */
+@keyframes pixelReveal {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+    border-radius: 0;
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(0.3);
+    border-radius: 50%;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0) translateY(-20px);
+    border-radius: 50%;
+  }
+}
+
+@keyframes pixelExplode {
+  0% {
+    opacity: 1;
+    transform: translate(0, 0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(var(--tx), var(--ty)) scale(0);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 8px rgba(99, 102, 241, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(99, 102, 241, 0.5);
+  }
+}
+
+.pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* ===== INSIGHTS ANIMATIONS ===== */
+@keyframes fadeSlideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-slide-up {
+  animation: fadeSlideUp 0.5s ease-out forwards;
+}
+
+@keyframes sparkleUp {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-100vh) scale(0);
+  }
+}
+
+.animate-sparkle-up {
+  animation: sparkleUp 3s ease-in forwards;
+}
+
+@keyframes progressGlide {
+  0% {
+    left: -32px;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+.animate-progress-glide {
+  animation: progressGlide 2s ease-in-out infinite;
+}
