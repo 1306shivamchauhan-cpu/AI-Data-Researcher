@@ -2,9 +2,9 @@
 
 AI-powered analytics platform with conversational chat, data upload (CSV/JSON/Excel), 6 statistical analysis types, ML forecasting, and interactive dashboards.
 
-## Demo
+## 🚀 Live App
 
-[![Open App Locally](https://img.shields.io/badge/Open_App-Locally-brightgreen?style=for-the-badge)](http://localhost:5173)
+**[Click here to open the AI Data Researcher App!](https://1306shivamchauhan-cpu.github.io/AI-Data-Researcher/)**
 
 > Clone and run locally — see [Quick Start](#quick-start) below.
 
