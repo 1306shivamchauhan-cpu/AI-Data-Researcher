@@ -4,7 +4,7 @@ AI-powered analytics platform with conversational chat, data upload (CSV/JSON/Ex
 
 ## Demo
 
-![Dashboard](https://img.shields.io/badge/Open_App-Run_Locally-brightgreen?style=for-the-badge)
+[![Open App](https://img.shields.io/badge/Open_App-Live_Demo-brightgreen?style=for-the-badge)](https://ai-data-researcher.vercel.app/)
 
 > Clone and run locally — see [Quick Start](#quick-start) below.
 
